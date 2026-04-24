@@ -93,7 +93,8 @@ What type of incident aims to disrupt the availability of an application?
 
 ![](6645aa8c024f7893371eb7ac-1718268.png)
 
-
+both:
+![](6645aa8c024f7893371eb7ac-1723217.png)
 
 ### Incident Response Plan
 
@@ -103,6 +104,12 @@ A formally approved document covering procedures before, during, and after an in
 - IR Methodology
 - Communication plan (including law enforcement)
 - Escalation path
+
+The Security team disables a machine's internet connection after an incident. Which phase of the SANS IR lifecycle is followed here?
+- containment
+
+Which phase of NIST corresponds with the lessons learned phase of the SANS IR lifecycle?
+- Post Incident Activity
 
 ---
 
@@ -131,6 +138,9 @@ A formally approved document covering procedures before, during, and after an in
 4. Determine if any user opened the attachment
 5. Isolate infected systems from the network
 6. Block the sender
+
+Step-by-step comprehensive guidelines for incident response are known as?
+- Playbooks
 
 ---
 
