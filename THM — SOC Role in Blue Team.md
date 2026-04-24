@@ -31,6 +31,12 @@ Explores where the SOC sits within a company's broader security hierarchy, what 
 |**GRC Team**|Governance, Risk & Compliance — policies, regulations (e.g. GDPR, ISO 27001)|
 |**Blue Team**|Defensive security — analysts, engineers, incident responders|
 
+Which senior role typically makes key cyber security decisions?
+- CISO
+
+What is the common name for roles like SOC analysts and engineers?
+- Blue Team
+
 ---
 
 ## Task 3 — Blue Team Structure
