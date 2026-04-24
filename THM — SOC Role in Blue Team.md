@@ -111,6 +111,8 @@ Found in large enterprises, tech startups, and government agencies. Require deep
 
 **Scenario:** As CISO of _TrySecureMe_, assign the right security roles to 7 simultaneous incidents using drag-and-drop.
 
+
+
 |Question|Answer|
 |---|---|
 |Flag after completing the challenge?|_(found in lab)_|
