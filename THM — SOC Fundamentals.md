@@ -18,6 +18,9 @@ Covers the core concepts of a Security Operations Center — what it is, what it
 - Goal: **continuously monitor** an organization's network and resources, detect suspicious activity, and prevent damage
 - Operates **24/7**
 
+What does the term SOC stand for?
+- Security Operations Center
+
 ---
 
 ## Task 2 — Detection & Response + The Three Pillars
@@ -45,6 +48,9 @@ Covers the core concepts of a Security Operations Center — what it is, what it
 > **People → Process → Technology**
 
 All three must coexist for a mature, effective SOC.
+
+The SOC team discovers an unauthorized user is trying to log in to an account. Which capability of SOC is this?
+- 
 
 ---
 
