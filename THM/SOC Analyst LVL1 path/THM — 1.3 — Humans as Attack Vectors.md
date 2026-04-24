@@ -84,11 +84,14 @@ SOC analysts don't just monitor alerts — they can be deeply embedded in the or
 2. ![](Pasted%20image%2020260425005703.png)
 3. ![](Pasted%20image%2020260425005711.png)
 4. ![](Pasted%20image%2020260425005722.png)
+![](Pasted%20image%2020260425005728.png)
 
-|Challenge|Flag|
-|---|---|
-|Employees at Risk|_(found in lab)_|
-|Security Policy|_(found in lab)_|
+#### 2. Security Policy
+
+| Challenge         | Flag                        |
+| ----------------- | --------------------------- |
+| Employees at Risk | _THM{anyone_else_at_risk?}_ |
+| Security Policy   | _(found in lab)_            |
 
 ---
 
