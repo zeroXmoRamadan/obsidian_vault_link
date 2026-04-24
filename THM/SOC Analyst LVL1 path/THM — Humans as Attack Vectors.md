@@ -1,5 +1,3 @@
-# THM — Humans as Attack Vectors
-
 > **Platform:** TryHackMe  
 > **Path:** SOC Level 1  
 > **Difficulty:** Easy  
@@ -11,9 +9,6 @@
 
 Explores why humans are the weakest link in cyber security, how attackers exploit them through social engineering, and how SOC analysts detect and mitigate these attacks.
 
-**Prerequisites:** [[SOC Role in Blue Team]]  
-**Next Rooms:** [[Systems as Attack Vectors]]
-
 ---
 
 ## Task 2 — Why Humans Are Targeted
@@ -22,12 +17,12 @@ Attackers often find it easier to manipulate a human than to breach technical de
 
 ### What Attackers Aim For
 
-|Attack|Attacker's Next Step|
-|---|---|
-|Breach HR manager's Google account|Steal and sell the entire employee database|
-|Trick wealthy person into running malware|Hijack their web banking session|
-|Breach IT administrator's account|Access the core of the corporate network|
-|Trick government worker into sharing secrets|Use intel to simplify future attacks|
+| Attack                                       | Attacker's Next Step                        |
+| -------------------------------------------- | ------------------------------------------- |
+| Breach HR manager's Google account           | Steal and sell the entire employee database |
+| Trick wealthy person into running malware    | Hijack their web banking session            |
+| Breach IT administrator's account            | Access the core of the corporate network    |
+| Trick government worker into sharing secrets | Use intel to simplify future attacks        |
 
 ---
 
