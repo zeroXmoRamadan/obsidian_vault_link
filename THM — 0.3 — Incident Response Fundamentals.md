@@ -148,13 +148,13 @@ Step-by-step comprehensive guidelines for incident response are known as?
 
 **Scenario:** A phishing email with a malicious attachment hits multiple hosts. Investigate scope, contain, and respond.
 
-| Question                                    | Answer                                                         |
-| ------------------------------------------- | -------------------------------------------------------------- |
-| Name of the malicious email sender?         | ![](Pasted%20image%2020260424174447.png)<br><br>_Jeff Johnson_ |
-| Threat vector?                              | _Email Attachment_                                             |
-| How many devices downloaded the attachment? | <br><br>_3_                                                    |
-| How many devices executed the file?         | _(found in lab)_                                               |
-| Flag at the end of the exercise?            | _(found in lab)_                                               |
+| Question                                    | Answer                                                                            |
+| ------------------------------------------- | --------------------------------------------------------------------------------- |
+| Name of the malicious email sender?         | ![](Pasted%20image%2020260424174447.png)<br><br>_Jeff Johnson_                    |
+| Threat vector?                              | _Email Attachment_                                                                |
+| How many devices downloaded the attachment? | ![](Pasted%20image%2020260424174540.png)<br><br>_3_                               |
+| How many devices executed the file?         | ![](Pasted%20image%2020260424174556.png)<br><br>_1_                               |
+| Flag at the end of the exercise?            | ![](Pasted%20image%2020260424174622.png)<br><br>_THM{My_First_Incident_Response}_ |
 
 ---
 
@@ -166,14 +166,3 @@ Step-by-step comprehensive guidelines for incident response are known as?
 - **SANS (PICERL)** and **NIST** frameworks both guide structured IR — NIST compresses it into 4 phases
 - **Playbooks** provide the _what_; **Runbooks** provide the _how_
 - Tools like SIEM, AV, and EDR automate detection and can assist in containment/eradication
-
----
-
-## Related Notes
-
-- [[SOC Fundamentals]]
-- [[SOC Role in Blue Team]]
-- [[Defensive Security Intro]]
-- [[Alert Triage Process]]
-- [[SIEM Fundamentals]]
-- [[TryHackMe SOC Level 1 Path]]
