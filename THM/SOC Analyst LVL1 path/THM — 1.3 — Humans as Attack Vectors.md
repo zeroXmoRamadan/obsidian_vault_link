@@ -87,6 +87,8 @@ SOC analysts don't just monitor alerts — they can be deeply embedded in the or
 ![](Pasted%20image%2020260425005728.png)
 
 #### 2. Security Policy
+1. ![](Pasted%20image%2020260425005912.png)
+![](Pasted%20image%2020260425005924.png)
 
 | Challenge         | Flag                        |
 | ----------------- | --------------------------- |
