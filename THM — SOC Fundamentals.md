@@ -104,15 +104,15 @@ Every alert is analyzed by answering:
 
 > **Note:** The SOC team confirmed the scan originated from `10.0.0.8` as an authorized internal test.
 
-| 5W                                                        | Answer                                                            |
-| --------------------------------------------------------- | ----------------------------------------------------------------- |
-| **What** — Activity that triggered the alert?             | ![[Pasted image 20260424161543.png]]<br><br>_Port Scan_           |
-| **When** — Time of the activity?                          | ![[Pasted image 20260424161615.png]]<br><br>_June 12, 2024 17:24_ |
-| **Where** — Destination host IP?                          | ![[Pasted image 20260424161649.png]]<br><br>_10.0.0.3_            |
-| **Who** — Source host name?                               | ![[Pasted image 20260424161716.png]]<br><br>_NESSUS_              |
-| **Why** — Intended or malicious?                          | _Intended_                                                        |
-| **Extra** — Was any response sent back to the scanner IP? | _yea_                                                             |
-| **Flag** after closing the alert?                         | _(found in lab)_                                                  |
+| 5W                                                        | Answer                                                              |
+| --------------------------------------------------------- | ------------------------------------------------------------------- |
+| **What** — Activity that triggered the alert?             | ![[Pasted image 20260424161543.png]]<br><br>_Port Scan_             |
+| **When** — Time of the activity?                          | ![[Pasted image 20260424161615.png]]<br><br>_June 12, 2024 17:24_   |
+| **Where** — Destination host IP?                          | ![[Pasted image 20260424161649.png]]<br><br>_10.0.0.3_              |
+| **Who** — Source host name?                               | ![[Pasted image 20260424161716.png]]<br><br>_NESSUS_                |
+| **Why** — Intended or malicious?                          | _Intended_                                                          |
+| **Extra** — Was any response sent back to the scanner IP? | _yea_                                                               |
+| **Flag** after closing the alert?                         | ![[Pasted image 20260424161850.png]]<br><br>_THM{000_INTRO_TO_SOC}_ |
 
 ---
 
