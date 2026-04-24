@@ -39,7 +39,7 @@ Blue Team = **defensive security**. Continuously monitors for attacks and respon
 
 ### Security Operations Center (SOC)
 
-
+![[678ecc92c80aa206339f0f23-1756425.png]]
 
 The most common entry point into cyber security. First line of defense, handles most alerts and attacks.
 
@@ -52,6 +52,8 @@ The most common entry point into cyber security. First line of defense, handles 
 
 ### Cyber Incident Response Team (CIRT)
 
+![[678ecc92c80aa206339f0f23-1756425(1).png]]
+
 Also called **CSIRT** or **CERT**. Called in when SOC expertise isn't enough or an incident escalates beyond control. Works without relying on standard SOC tools.
 
 |Example|Scope|
@@ -61,6 +63,8 @@ Also called **CSIRT** or **CERT**. Called in when SOC expertise isn't enough or 
 |**CIRT (TryHackMe context)**|Investigates customer security incidents|
 
 ### Specialized Defensive Roles
+
+![[678ecc92c80aa206339f0f23-1756425(2).png]]
 
 Found in large enterprises, tech startups, and government agencies. Require deep expertise:
 
@@ -90,6 +94,9 @@ Found in large enterprises, tech startups, and government agencies. Require deep
 |**Incident Exposure**|Limited major incidents per year|Weekly exposure to breaches — fast learning|
 
 > **Recommendation:** Apply for any open L1 position first. Both paths have value; MSSP accelerates experience.
+
+
+![[678ecc92c80aa206339f0f23-1757446.png]]
 
 ### Possible Next Steps from L1
 
