@@ -16,7 +16,7 @@ Explores where the SOC sits within a company's broader security hierarchy, what 
 ## Task 2 — Security Hierarchy
 
 
-![[678ecc92c80aa206339f0f23-1756329.png]]
+![](678ecc92c80aa206339f0f23-1756329.png)
 
 ### Chain of Command
 
