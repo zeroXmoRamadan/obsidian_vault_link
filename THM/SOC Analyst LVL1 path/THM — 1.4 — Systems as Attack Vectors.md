@@ -23,6 +23,12 @@ A system is any platform storing or processing data — physical servers, virtua
 |Industrial network server|Encrypt the whole network with ransomware|
 |Government website panel|Deface or destroy website content (hacktivism)|
 
+Can cyber attacks happen without victim intervention (Yea/Nay)?
+- Yea
+  
+Can a breach of just a single system lead to disastrous consequences (Yea/Nay)?
+- Yea
+
 ---
 
 ## Task 3 — How Systems Are Attacked
@@ -53,6 +59,12 @@ Attackers compromise a widely-used app or library and push a malicious update to
 |**Lottie Player** (TryHackMe)|Animation library compromised — even THM was affected|
 
 > Supply chain attacks are hard to defend against because you can't always control every library or app on your systems.
+
+What is the term for a security flaw that can be exploited to breach a system?
+- Vulnerability
+
+What is the name of the attack when malware comes from a trusted app or library?
+- Supply Chain
 
 ---
 
