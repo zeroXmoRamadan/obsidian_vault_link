@@ -79,6 +79,12 @@ SOC analysts don't just monitor alerts — they can be deeply embedded in the or
 
 ### Lab — TryHackMe Security Dashboard
 
+#### 1. Employees at Risk
+1. ![](Pasted%20image%2020260425005657.png)
+2. ![](Pasted%20image%2020260425005703.png)
+3. ![](Pasted%20image%2020260425005711.png)
+4. ![](Pasted%20image%2020260425005722.png)
+
 |Challenge|Flag|
 |---|---|
 |Employees at Risk|_(found in lab)_|
