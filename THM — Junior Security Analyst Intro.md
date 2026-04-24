@@ -61,11 +61,13 @@ Over time, a Junior Analyst may:
 
 ### Lab Questions
 
-|Question|Answer|
-|---|---|
-|Malicious IP address in the alerts|_(found in lab)_|
-|Who was the alert escalated to?|_(found in lab)_|
-|Message after blocking the IP on the firewall?|_(found in lab)_|
+![[Pasted image 20260424155959.png]]
+
+| Question                                       | Answer           |
+| ---------------------------------------------- | ---------------- |
+| Malicious IP address in the alerts             |                  |
+| Who was the alert escalated to?                | _(found in lab)_ |
+| Message after blocking the IP on the firewall? | _(found in lab)_ |
 
 > **Note:** Complete the interactive lab by clicking **View Site** in Task 3 to get the answers above.
 
