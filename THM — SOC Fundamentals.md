@@ -23,7 +23,7 @@ Covers the core concepts of a Security Operations Center — what it is, what it
 ## Task 2 — Detection & Response + The Three Pillars
 
 
-
+![[6645aa8c024f7893371eb7ac-1718872.png]]
 
 ### Detection Capabilities
 
