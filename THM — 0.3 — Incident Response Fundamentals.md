@@ -148,13 +148,13 @@ Step-by-step comprehensive guidelines for incident response are known as?
 
 **Scenario:** A phishing email with a malicious attachment hits multiple hosts. Investigate scope, contain, and respond.
 
-|Question|Answer|
-|---|---|
-|Name of the malicious email sender?|_(found in lab)_|
-|Threat vector?|_(found in lab)_|
-|How many devices downloaded the attachment?|_(found in lab)_|
-|How many devices executed the file?|_(found in lab)_|
-|Flag at the end of the exercise?|_(found in lab)_|
+| Question                                    | Answer                                                         |
+| ------------------------------------------- | -------------------------------------------------------------- |
+| Name of the malicious email sender?         | ![](Pasted%20image%2020260424174447.png)<br><br>_Jeff Johnson_ |
+| Threat vector?                              | _Email Attachment_                                             |
+| How many devices downloaded the attachment? | <br><br>_3_                                                    |
+| How many devices executed the file?         | _(found in lab)_                                               |
+| Flag at the end of the exercise?            | _(found in lab)_                                               |
 
 ---
 
