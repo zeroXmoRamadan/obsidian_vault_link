@@ -136,15 +136,15 @@ Do SIEM solutions primarily focus on detecting and alerting about security incid
 
 > **Note:** The SOC team confirmed the scan originated from `10.0.0.8` as an authorized internal test.
 
-| 5W                                                        | Answer                                                                |
-| --------------------------------------------------------- | --------------------------------------------------------------------- |
-| **What** — Activity that triggered the alert?             | ![](Pasted%20image%2020260424171533.png)<br><br>_Port Scan_           |
-| **When** — Time of the activity?                          | ![](Pasted%20image%2020260424171550.png)<br><br>_June 12, 2024 17:24_ |
-| **Where** — Destination host IP?                          | ![](Pasted%20image%2020260424171610.png)<br><br>_10.0.0.3_            |
-| **Who** — Source host name?                               | ![](Pasted%20image%2020260424171622.png)<br><br>_NESSUS_              |
-| **Why** — Intended or malicious?                          | _Intended_                                                            |
-| **Extra** — Was any response sent back to the scanner IP? | _yea_                                                                 |
-| **Flag** after closing the alert?                         | ![[Pasted image 20260424161850.png]]<br><br>_THM{000_INTRO_TO_SOC}_   |
+| 5W                                                        | Answer                                                                  |
+| --------------------------------------------------------- | ----------------------------------------------------------------------- |
+| **What** — Activity that triggered the alert?             | ![](Pasted%20image%2020260424171533.png)<br><br>_Port Scan_             |
+| **When** — Time of the activity?                          | ![](Pasted%20image%2020260424171550.png)<br><br>_June 12, 2024 17:24_   |
+| **Where** — Destination host IP?                          | ![](Pasted%20image%2020260424171610.png)<br><br>_10.0.0.3_              |
+| **Who** — Source host name?                               | ![](Pasted%20image%2020260424171622.png)<br><br>_NESSUS_                |
+| **Why** — Intended or malicious?                          | _Intended_                                                              |
+| **Extra** — Was any response sent back to the scanner IP? | _yea_                                                                   |
+| **Flag** after closing the alert?                         | ![](Pasted%20image%2020260424171640.png)<br><br>_THM{000_INTRO_TO_SOC}_ |
 
 ---
 
@@ -155,13 +155,3 @@ Do SIEM solutions primarily focus on detecting and alerting about security incid
 - Alert triage using the **5 Ws** is the foundation of an analyst's daily workflow
 - Tools like **SIEM** centralize detection; **EDR** and **Firewalls** add response capability
 - L1 analysts are the entry point — triage, report, escalate
-
----
-
-## Related Notes
-
-- [[Junior Security Analyst Intro]]
-- [[Alert Triage Process]]
-- [[Incident Response Basics]]
-- [[SIEM Fundamentals]]
-- [[TryHackMe SOC Level 1 Path]]
