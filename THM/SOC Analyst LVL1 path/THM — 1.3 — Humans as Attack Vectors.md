@@ -24,6 +24,12 @@ Attackers often find it easier to manipulate a human than to breach technical de
 | Breach IT administrator's account            | Access the core of the corporate network    |
 | Trick government worker into sharing secrets | Use intel to simplify future attacks        |
 
+What or who is the weakest link in cyber security?
+- Humans
+
+What do attackers seek when targeting humans in a cyberattack?
+- Access
+
 ---
 
 ## Task 3 — Social Engineering Attack Types
@@ -46,6 +52,12 @@ For an attack to succeed it must be:
 |**Other**|USB drops, physical access attacks, insider threats, fake job offers|Any attack that exploits human trust or curiosity|
 
 > **Scale:** An estimated **3.4 billion** malicious phishing emails are sent daily.
+
+What is the name of an attack tactic that manipulates human psychology?
+- Social Engineering
+
+Which social engineering method is about pretending to be someone else?
+- Impersonation
 
 ---
 
