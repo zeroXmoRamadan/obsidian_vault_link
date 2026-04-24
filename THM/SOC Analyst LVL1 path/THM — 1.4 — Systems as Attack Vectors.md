@@ -148,7 +148,8 @@ Unlike humans, systems can't be _trained_ — but IT teams can be. Key mitigatio
 ![](Pasted%20image%2020260425014256.png)
 
 #### 2. Remediation Plan
-
+![](Pasted%20image%2020260425014417.png)
+![](Pasted%20image%2020260425014420.png)
 
 | Challenge        | Flag                          |
 | ---------------- | ----------------------------- |
