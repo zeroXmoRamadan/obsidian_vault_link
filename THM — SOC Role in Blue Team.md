@@ -113,9 +113,9 @@ Found in large enterprises, tech startups, and government agencies. Require deep
 
 
 
-|Question|Answer|
-|---|---|
-|Flag after completing the challenge?|_(found in lab)_|
+| Question                             | Answer                         |
+| ------------------------------------ | ------------------------------ |
+| Flag after completing the challenge? | _THM{trysecureme_is_secured!}_ |
 
 ---
 
