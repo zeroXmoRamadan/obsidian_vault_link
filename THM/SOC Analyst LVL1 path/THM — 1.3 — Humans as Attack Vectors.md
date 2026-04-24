@@ -90,10 +90,10 @@ SOC analysts don't just monitor alerts — they can be deeply embedded in the or
 1. ![](Pasted%20image%2020260425005912.png)
 ![](Pasted%20image%2020260425005924.png)
 
-| Challenge         | Flag                        |
-| ----------------- | --------------------------- |
-| Employees at Risk | _THM{anyone_else_at_risk?}_ |
-| Security Policy   | _(found in lab)_            |
+| Challenge         | Flag                            |
+| ----------------- | ------------------------------- |
+| Employees at Risk | _THM{anyone_else_at_risk?}_     |
+| Security Policy   | _THM{human_protection_expert!}_ |
 
 ---
 
