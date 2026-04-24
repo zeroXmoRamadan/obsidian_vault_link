@@ -53,8 +53,7 @@ For an attack to succeed it must be:
 
 Defence requires both **Mitigation** (prevent/reduce attacks) and **Detection** (catch what slips through).
 
-
-
+![](678ecc92c80aa206339f0f23-1752782.png)
 
 ### Key Mitigation Measures
 
