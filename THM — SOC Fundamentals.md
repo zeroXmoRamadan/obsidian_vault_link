@@ -107,7 +107,8 @@ Every alert is analyzed by answering:
 At the end of the investigation, the SOC team found that John had attempted to steal the system's data. Which 'W' from the 5 Ws does this answer?
 - Who
 
-
+The SOC team detected a large amount of data exfiltration. Which 'W' from the 5 Ws does this answer?
+- What
 
 ---
 
@@ -120,6 +121,12 @@ At the end of the investigation, the SOC team found that John had attempted to s
 |**Firewall**|Monitors and filters incoming/outgoing network traffic; blocks unauthorized connections|Both|
 
 > Other tools in a SOC ecosystem: **Antivirus, IDS/IPS, XDR, SOAR**, and more. Tool selection depends on the organization's threat surface and resources.
+
+Which security solution monitors the incoming and outgoing traffic of the network?
+- Firewall
+
+Do SIEM solutions primarily focus on detecting and alerting about security incidents? (yea/nay)
+- yea
 
 ---
 
