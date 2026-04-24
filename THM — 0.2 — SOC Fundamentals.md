@@ -52,7 +52,7 @@ All three must coexist for a mature, effective SOC.
 The SOC team discovers an unauthorized user is trying to log in to an account. Which capability of SOC is this?
 - Detection
 
-> What are the three pillars of a SOC?
+What are the three pillars of a SOC?
 - People, Process, Technology
 
 ---
