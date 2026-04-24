@@ -45,7 +45,7 @@ Blue Team = **defensive security**. Continuously monitors for attacks and respon
 
 ### Security Operations Center (SOC)
 
-![[678ecc92c80aa206339f0f23-1756425.png]]
+![](678ecc92c80aa206339f0f23-1756425.png)
 
 The most common entry point into cyber security. First line of defense, handles most alerts and attacks.
 
@@ -58,7 +58,7 @@ The most common entry point into cyber security. First line of defense, handles 
 
 ### Cyber Incident Response Team (CIRT)
 
-![[678ecc92c80aa206339f0f23-1756425(1).png]]
+![](678ecc92c80aa206339f0f23-1756425(1).png)
 
 Also called **CSIRT** or **CERT**. Called in when SOC expertise isn't enough or an incident escalates beyond control. Works without relying on standard SOC tools.
 
@@ -70,7 +70,7 @@ Also called **CSIRT** or **CERT**. Called in when SOC expertise isn't enough or 
 
 ### Specialized Defensive Roles
 
-![[678ecc92c80aa206339f0f23-1756425(2).png]]
+![](678ecc92c80aa206339f0f23-1756425(2).png)
 
 Found in large enterprises, tech startups, and government agencies. Require deep expertise:
 
@@ -108,7 +108,7 @@ Which department handles active or urgent cyber incidents?
 > **Recommendation:** Apply for any open L1 position first. Both paths have value; MSSP accelerates experience.
 
 
-![[678ecc92c80aa206339f0f23-1757446.png]]
+![](678ecc92c80aa206339f0f23-1757446.png)
 
 ### Possible Next Steps from L1
 
@@ -145,14 +145,3 @@ Which role naturally continues your SOC L1 analyst journey?
 - Specialized roles (forensics, threat intel, AppSec) require broader experience first
 - **Internal SOC** offers depth; **MSSP** offers breadth and faster incident exposure
 - L1 is just the starting point — the path forward is wide open
-
----
-
-## Related Notes
-
-- [[Junior Security Analyst Intro]]
-- [[SOC Fundamentals]]
-- [[Incident Response Basics]]
-- [[Humans as Attack Vectors]]
-- [[Systems as Attack Vectors]]
-- [[TryHackMe SOC Level 1 Path]]
