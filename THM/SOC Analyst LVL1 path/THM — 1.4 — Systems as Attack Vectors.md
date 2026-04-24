@@ -1,0 +1,137 @@
+> **Platform:** TryHackMe  
+> **Path:** SOC Level 1  
+> **Difficulty:** Easy  
+> **Tags:** #tryhackme #vulnerabilities #misconfigurations #supply-chain #blue-team #soc
+
+---
+
+## Overview
+
+Explores how systems (servers, VMs, cloud platforms) are targeted by threat actors — through human error, software vulnerabilities, misconfigurations, and supply chain attacks — and how SOC analysts respond.
+
+---
+
+## Task 2 — Why Systems Are Valuable Targets
+
+A system is any platform storing or processing data — physical servers, virtual machines, or cloud services like Microsoft 365. Breaching a system is far more impactful than breaching a single user.
+
+|Breached System|Attack Value|
+|---|---|
+|School student's laptop|Steal Steam profile; add PC to a botnet|
+|Bank IT admin's laptop|Access internal banking systems|
+|Criminal law firm's mail server|Dump all mailboxes and blackmail the firm|
+|Industrial network server|Encrypt the whole network with ransomware|
+|Government website panel|Deface or destroy website content (hacktivism)|
+
+---
+
+## Task 3 — How Systems Are Attacked
+
+### Human-Led Attacks
+
+Users are often the entry point — inserting a found USB, downloading pirated software, or reusing weak passwords.
+
+> **81%** of breaches involve stolen or weak passwords.
+
+### Software Vulnerabilities
+
+Every piece of software can have security flaws. In 2024 alone:
+
+- **40,000+** software vulnerabilities were published
+- **300+** were actively exploited in major attacks
+
+IT admins also increase risk by using weak passwords or allowing unrestricted system access.
+
+### Supply Chain Attacks
+
+Attackers compromise a widely-used app or library and push a malicious update to all users — affecting thousands of organisations at once.
+
+|Example|Impact|
+|---|---|
+|**SolarWinds**|Thousands of companies compromised via a trojanised software update|
+|**3CX**|Phone software supply chain breach affecting global businesses|
+|**Lottie Player** (TryHackMe)|Animation library compromised — even THM was affected|
+
+> Supply chain attacks are hard to defend against because you can't always control every library or app on your systems.
+
+---
+
+## Task 4 — Software Vulnerabilities Deep Dive
+
+- Vulnerabilities can exist for years before discovery — **Shellshock** (1992) wasn't found until **2014**
+- **Zero-day** — a vulnerability discovered and exploited by attackers _before_ anyone else knows it exists
+- Once made public, a vulnerability is assigned a **CVE** (Common Vulnerabilities and Exposures) number
+- From that point it's a race: attackers build exploits while defenders patch
+
+### Responding to Vulnerabilities
+
+|Response|Description|
+|---|---|
+|**Apply the patch**|Always the primary fix — update supplied by the software vendor|
+|**Restrict access**|Limit system access to trusted IPs/users while waiting for a patch|
+|**Temporary vendor measures**|Apply any interim workarounds provided by the vendor|
+|**Block known patterns**|Use IDS/IPS or WAF to block known exploit signatures|
+
+---
+
+## Task 5 — Misconfigurations
+
+A misconfiguration is not a software bug — it's a human setup mistake, often made to simplify things.
+
+### Real-World Examples
+
+|Case|Result|
+|---|---|
+|Password "123456" on McDonald's recruitment system|Exposed chats for **64 million** job applications|
+|Misconfigured cloud storage|Breached **106 million** bank customers' data|
+|Improperly configured smart fridges|Silently recruited into large-scale botnet attacks|
+
+### Responding to Misconfigurations
+
+|Measure|Description|
+|---|---|
+|**Penetration Testing**|Hire ethical hackers to simulate attacks and report discovered flaws|
+|**Vulnerability Scans**|Periodically run tools to detect default passwords and outdated software|
+|**Configuration Audits**|Manually review systems against security benchmarks (e.g. CIS benchmarks)|
+
+---
+
+## Task 6 — Mitigation Measures for Systems
+
+Unlike humans, systems can't be _trained_ — but IT teams can be. Key mitigations:
+
+|Measure|Description|
+|---|---|
+|**Patch Management**|Track and apply patches promptly to reduce exploitation windows|
+|**IT Training**|Educate IT teams on misconfiguration risks and secure setup practices|
+|**Network Protection**|Restrict system access to trusted users or IP addresses|
+|**Antivirus Protection**|Detect and stop many attacks at the endpoint level|
+
+### Lab — TryHackMe Security Dashboard
+
+|Challenge|Flag|
+|---|---|
+|Systems at Risk|_(found in lab)_|
+|Remediation Plan|_(found in lab)_|
+
+---
+
+## Key Takeaways
+
+- Breaching a **system** is far more impactful than breaching a single user account
+- Attacks come via humans, software vulnerabilities, misconfigurations, and supply chains
+- **Zero-days** are the hardest to defend — vigilant monitoring is the only option until a patch arrives
+- **CVE numbers** track public vulnerabilities — patching speed is critical once published
+- Misconfigurations are common, avoidable, and often only discovered _after_ exploitation
+- Supply chain attacks bypass perimeter defences — SOC analysts must be ready to respond
+
+---
+
+## Threat Intel Resources
+
+|Resource|URL|
+|---|---|
+|Verizon DBIR: How Real Intrusions Happen|https://www.verizon.com/business/resources/reports/dbir|
+|CISA: Known Exploited Vulnerabilities Catalog|https://www.cisa.gov/known-exploited-vulnerabilities-catalog|
+|BleepingComputer: Supply Chain Attacks|https://www.bleepingcomputer.com|
+|CheckPoint: Live Cyber Threat Map|https://threatmap.checkpoint.com|
