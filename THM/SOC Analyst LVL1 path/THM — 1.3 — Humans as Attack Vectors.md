@@ -78,6 +78,12 @@ Defence requires both **Mitigation** (prevent/reduce attacks) and **Detection** 
 
 > Mitigation reduces workload for analysts and hardens the human layer before incidents occur.
 
+Which process is aimed at preventing or reducing the chance of an attack?
+- Mitigation
+
+Which mitigation measure is about training employees in cyber security?
+- Security Awareness Training
+
 ---
 
 ## Task 5 — SOC Analyst Role in Human Attack Defence
