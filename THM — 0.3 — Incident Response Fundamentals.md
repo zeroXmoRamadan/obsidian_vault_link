@@ -80,6 +80,8 @@ What type of incident aims to disrupt the availability of an application?
 |**R — Recovery**|Restore systems from backup or rebuild; test before returning to use|Reimage host, restore exfiltrated data from backup|
 |**L — Lessons Learned**|Document gaps; improve detection and response for future incidents|Post-incident review meeting, root cause analysis|
 
+![](6645aa8c024f7893371eb7ac-1718265.png)
+
 ### NIST Framework — 4 Phases
 
 |NIST Phase|SANS Equivalent|
@@ -88,6 +90,10 @@ What type of incident aims to disrupt the availability of an application?
 |Detection & Analysis|Identification|
 |Containment, Eradication & Recovery|Containment + Eradication + Recovery|
 |Post-Incident Activity|Lessons Learned|
+
+![](6645aa8c024f7893371eb7ac-1718268.png)
+
+
 
 ### Incident Response Plan
 
