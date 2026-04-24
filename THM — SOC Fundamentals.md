@@ -108,9 +108,9 @@ Every alert is analyzed by answering:
 | --------------------------------------------------------- | ----------------------------------------------------------------- |
 | **What** — Activity that triggered the alert?             | ![[Pasted image 20260424161543.png]]<br><br>_Port Scan_           |
 | **When** — Time of the activity?                          | ![[Pasted image 20260424161615.png]]<br><br>_June 12, 2024 17:24_ |
-| **Where** — Destination host IP?                          | _(found in lab)_                                                  |
-| **Who** — Source host name?                               | _(found in lab)_                                                  |
-| **Why** — Intended or malicious?                          | _(found in lab)_                                                  |
+| **Where** — Destination host IP?                          | ![[Pasted image 20260424161649.png]]<br><br>_10.0.0.3_            |
+| **Who** — Source host name?                               | ![[Pasted image 20260424161716.png]]<br><br>_NESSUS_              |
+| **Why** — Intended or malicious?                          | <br><br>_(found in lab)_                                          |
 | **Extra** — Was any response sent back to the scanner IP? | _(yea/nay — found in lab)_                                        |
 | **Flag** after closing the alert?                         | _(found in lab)_                                                  |
 
