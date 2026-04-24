@@ -43,7 +43,7 @@ What does the term SOC stand for?
 
 ### The Three Pillars of a SOC
 
-![[6645aa8c024f7893371eb7ac-1718954.png]]
+![](6645aa8c024f7893371eb7ac-1718954.png)
 
 > **People → Process → Technology**
 
