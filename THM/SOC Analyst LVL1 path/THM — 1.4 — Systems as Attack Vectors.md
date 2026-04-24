@@ -99,6 +99,8 @@ How would you respond to a detected vulnerability on your system?
 
 A misconfiguration is not a software bug — it's a human setup mistake, often made to simplify things.
 
+![](678ecc92c80aa206339f0f23-1754915.png)
+
 ### Real-World Examples
 
 |Case|Result|
@@ -115,13 +117,19 @@ A misconfiguration is not a software bug — it's a human setup mistake, often m
 |**Vulnerability Scans**|Periodically run tools to detect default passwords and outdated software|
 |**Configuration Audits**|Manually review systems against security benchmarks (e.g. CIS benchmarks)|
 
+Can a system patch or software update fix the misconfigurations (Yea/Nay)?
+- Nay
 
+Which activity involves an authorized cyber attack to detect the misconfigurations?
+- Penetration Testing
 
 ---
 
 ## Task 6 — Mitigation Measures for Systems
 
 Unlike humans, systems can't be _trained_ — but IT teams can be. Key mitigations:
+
+![](678ecc92c80aa206339f0f23-1752599.png)
 
 |Measure|Description|
 |---|---|
