@@ -26,6 +26,9 @@ An introductory room that simulates the first day on the job as a **Junior Secur
 - Cooperate with other teams
 - Continuously learn about new attacks and defenses
 
+Which team do you work with as a Junior Security Analyst?
+- SOC
+
 ---
 
 ## Task 2 — Your SOC Team
