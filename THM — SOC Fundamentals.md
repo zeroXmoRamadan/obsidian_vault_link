@@ -1,5 +1,3 @@
-# THM — SOC Fundamentals
-
 > **Platform:** TryHackMe  
 > **Path:** SOC Level 1  
 > **Difficulty:** Easy  
