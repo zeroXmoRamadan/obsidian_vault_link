@@ -117,11 +117,11 @@ Which phase of NIST corresponds with the lessons learned phase of the SANS IR li
 
 ### Detection & Response Tools
 
-|Tool|Role|
-|---|---|
-|**SIEM**|Collects and correlates logs from all sources to identify incidents|
-|**Antivirus (AV)**|Detects and removes known malicious programs via regular scans|
-|**EDR**|Advanced endpoint protection; can also contain and eradicate threats automatically|
+| Tool               | Role                                                                               |
+| ------------------ | ---------------------------------------------------------------------------------- |
+| **SIEM**           | Collects and correlates logs from all sources to identify incidents                |
+| **Antivirus (AV)** | Detects and removes known malicious programs via regular scans                     |
+| **EDR**            | Advanced endpoint protection; can also contain and eradicate threats automatically |
 
 ### Playbooks vs Runbooks
 
