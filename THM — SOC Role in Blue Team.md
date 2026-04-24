@@ -79,6 +79,12 @@ Found in large enterprises, tech startups, and government agencies. Require deep
 - **AppSec Engineer** — Secure software development lifecycle (SDLC)
 - **Researcher** — Study threats and develop new defensive techniques
 
+Does Blue Team focus on defensive or offensive security?
+- Defensive
+
+Which department handles active or urgent cyber incidents?
+- CIRT
+
 ---
 
 ## Task 4 — SOC Career Path
@@ -110,6 +116,12 @@ Found in large enterprises, tech startups, and government agencies. Require deep
 - **SOC Engineer** — if tool configuration and automation appeals to you
 - **CIRT** — if major incident response excites you
 - **Management → CISO** — if leadership and strategy is your direction
+
+How would you call a cyber security company providing SOC services?
+- MSSP
+
+Which role naturally continues your SOC L1 analyst journey?
+- SOC L2 Analyst
 
 ---
 
