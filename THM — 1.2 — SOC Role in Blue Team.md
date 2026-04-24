@@ -129,7 +129,7 @@ Which role naturally continues your SOC L1 analyst journey?
 
 **Scenario:** As CISO of _TrySecureMe_, assign the right security roles to 7 simultaneous incidents using drag-and-drop.
 
-![[Pasted image 20260424163501.png]]
+![](Pasted%20image%2020260424172110.png)
 
 | Question                             | Answer                         |
 | ------------------------------------ | ------------------------------ |
