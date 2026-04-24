@@ -63,11 +63,11 @@ Over time, a Junior Analyst may:
 
 ![[Pasted image 20260424155959.png]]
 
-| Question                                       | Answer           |
-| ---------------------------------------------- | ---------------- |
-| Malicious IP address in the alerts             |                  |
-| Who was the alert escalated to?                | _(found in lab)_ |
-| Message after blocking the IP on the firewall? | _(found in lab)_ |
+| Question                                       | Answer                                                        |
+| ---------------------------------------------- | ------------------------------------------------------------- |
+| Malicious IP address in the alerts             | ![[Pasted image 20260424160024.png]]<br><br>_221.181.185.159_ |
+| Who was the alert escalated to?                | _Will Griffin_                                                |
+| Message after blocking the IP on the firewall? | __                                                            |
 
 > **Note:** Complete the interactive lab by clicking **View Site** in Task 3 to get the answers above.
 
