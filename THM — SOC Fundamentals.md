@@ -22,6 +22,9 @@ Covers the core concepts of a Security Operations Center — what it is, what it
 
 ## Task 2 — Detection & Response + The Three Pillars
 
+
+
+
 ### Detection Capabilities
 
 |Capability|Description|
@@ -36,6 +39,8 @@ Covers the core concepts of a Security Operations Center — what it is, what it
 - **Support incident response** — minimize impact, assist with root cause analysis
 
 ### The Three Pillars of a SOC
+
+![[6645aa8c024f7893371eb7ac-1718954.png]]
 
 > **People → Process → Technology**
 
