@@ -15,6 +15,9 @@ Explores where the SOC sits within a company's broader security hierarchy, what 
 
 ## Task 2 — Security Hierarchy
 
+
+![[678ecc92c80aa206339f0f23-1756329.png]]
+
 ### Chain of Command
 
 - **CEO / Executives** → focus on business objectives, not technical security
@@ -35,6 +38,8 @@ Explores where the SOC sits within a company's broader security hierarchy, what 
 Blue Team = **defensive security**. Continuously monitors for attacks and responds quickly. Typical size: **3–50 members** depending on company size.
 
 ### Security Operations Center (SOC)
+
+
 
 The most common entry point into cyber security. First line of defense, handles most alerts and attacks.
 
