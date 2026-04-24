@@ -141,7 +141,14 @@ Unlike humans, systems can't be _trained_ — but IT teams can be. Key mitigatio
 ### Lab — TryHackMe Security Dashboard
 
 #### 1. Systems at Risk
-1. 
+1. ![](Pasted%20image%2020260425014240.png)
+2. ![](Pasted%20image%2020260425014246.png)
+3. ![](Pasted%20image%2020260425014250.png)
+4. ![](Pasted%20image%2020260425014254.png)
+![](Pasted%20image%2020260425014256.png)
+
+#### 2. Remediation Plan
+
 
 | Challenge        | Flag                          |
 | ---------------- | ----------------------------- |
