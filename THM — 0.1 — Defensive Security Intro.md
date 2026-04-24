@@ -23,7 +23,8 @@ Real-world breaches demonstrate the cost of poor security:
 |**23andMe**|2023|7 million+ users' names, addresses, health & DNA data leaked|£2.31 million|
 |**SK Telecom**|2024|~27 million users' data leaked via misconfigured servers|$97 million|
 
-> **Defensive security = Blue Teaming**
+What is defensive security also known as?
+- Blue Teaming
 
 ---
 
@@ -39,12 +40,15 @@ Real-world breaches demonstrate the cost of poor security:
 
 ### Key Roles in a Defensive Security Team
 
-|Person|Role|Responsibilities|
-|---|---|---|
-|**Bob**|Analyst|Monitors network/system events; frontline threat detection|
-|**Aaliyah**|Incident Responder|Investigates and responds to active incidents in real time; shares lessons learned|
-|**Zoe**|Security Engineer|Builds and maintains tools and systems that support the team|
-|**Bill**|Digital Forensics|Gathers, preserves, and analyses evidence to understand what happened and how|
+| Person      | Role               | Responsibilities                                                                   |
+| ----------- | ------------------ | ---------------------------------------------------------------------------------- |
+| **Bob**     | Analyst            | Monitors network/system events; frontline threat detection                         |
+| **Aaliyah** | Incident Responder | Investigates and responds to active incidents in real time; shares lessons learned |
+| **Zoe**     | Security Engineer  | Builds and maintains tools and systems that support the team                       |
+| **Bill**    | Digital Forensics  | Gathers, preserves, and analyses evidence to understand what happened and how      |
+
+An attack has been detected on an organisation's network. What is the name of the person above who would be responsible for responding to the attack?
+- Aaliyah
 
 ---
 
@@ -75,11 +79,16 @@ Organisations layer multiple defences so that if one fails, others remain. This 
 - Acts like a radar — sweeps the environment and surfaces suspicious events
 - Enables multiple analysts to review and act on data quickly from one place
 
+What is the abbreviation for the term "Security Operations Centre"?
+- SOC
+
 ---
 
 ## Task 4 — Practical Lab (FakeBank SIEM Investigation)
 
 **Scenario:** Junior analyst at FakeBank investigating a **Web Discovery Attack** flagged by the SIEM.
+
+1. 
 
 |Question|Answer|
 |---|---|
