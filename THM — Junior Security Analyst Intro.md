@@ -66,8 +66,8 @@ Over time, a Junior Analyst may:
 | Question                                       | Answer                                                        |
 | ---------------------------------------------- | ------------------------------------------------------------- |
 | Malicious IP address in the alerts             | ![[Pasted image 20260424160024.png]]<br><br>_221.181.185.159_ |
-| Who was the alert escalated to?                | _Will Griffin_                                                |
-| Message after blocking the IP on the firewall? | __                                                            |
+| Who was the alert escalated to?                | ![[Pasted image 20260424160201.png]]<br><br>_Will Griffin_    |
+| Message after blocking the IP on the firewall? | ![[Pasted image 20260424160230.png]]<br><br>__                |
 
 > **Note:** Complete the interactive lab by clicking **View Site** in Task 3 to get the answers above.
 
