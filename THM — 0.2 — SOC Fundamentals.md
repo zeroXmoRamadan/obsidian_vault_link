@@ -26,7 +26,7 @@ What does the term SOC stand for?
 ## Task 2 — Detection & Response + The Three Pillars
 
 
-![[6645aa8c024f7893371eb7ac-1718872.png]]
+![](6645aa8c024f7893371eb7ac-1718872.png)
 
 ### Detection Capabilities
 
