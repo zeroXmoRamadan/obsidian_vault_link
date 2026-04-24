@@ -75,6 +75,9 @@ What is the name of the attack when malware comes from a trusted app or library?
 - Once made public, a vulnerability is assigned a **CVE** (Common Vulnerabilities and Exposures) number
 - From that point it's a race: attackers build exploits while defenders patch
 
+
+![](678ecc92c80aa206339f0f23-1752598.png)
+
 ### Responding to Vulnerabilities
 
 |Response|Description|
@@ -83,6 +86,12 @@ What is the name of the attack when malware comes from a trusted app or library?
 |**Restrict access**|Limit system access to trusted IPs/users while waiting for a patch|
 |**Temporary vendor measures**|Apply any interim workarounds provided by the vendor|
 |**Block known patterns**|Use IDS/IPS or WAF to block known exploit signatures|
+
+What is the CVE for the critical SharePoint vulnerability dubbed "ToolShell"?
+- CVE-2025-53770
+
+How would you respond to a detected vulnerability on your system?
+- Patch
 
 ---
 
@@ -105,6 +114,8 @@ A misconfiguration is not a software bug — it's a human setup mistake, often m
 |**Penetration Testing**|Hire ethical hackers to simulate attacks and report discovered flaws|
 |**Vulnerability Scans**|Periodically run tools to detect default passwords and outdated software|
 |**Configuration Audits**|Manually review systems against security benchmarks (e.g. CIS benchmarks)|
+
+
 
 ---
 
