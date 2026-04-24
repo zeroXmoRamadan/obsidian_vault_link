@@ -88,7 +88,10 @@ What is the abbreviation for the term "Security Operations Centre"?
 
 **Scenario:** Junior analyst at FakeBank investigating a **Web Discovery Attack** flagged by the SIEM.
 
-1. 
+1. ![[Pasted image 20260424165308.png]]
+2. ![[Pasted image 20260424165319.png]]
+3. ![[Pasted image 20260424165333.png]]
+4. ![[Pasted image 20260424165341.png]]
 
 |Question|Answer|
 |---|---|
