@@ -1,5 +1,3 @@
-# THM — Junior Security Analyst Intro
-
 > **Platform:** TryHackMe  
 > **Path:** SOC Level 1  
 > **Difficulty:** Easy  
@@ -63,11 +61,11 @@ Over time, a Junior Analyst may:
 
 ![[Pasted image 20260424155959.png]]
 
-| Question                                       | Answer                                                        |
-| ---------------------------------------------- | ------------------------------------------------------------- |
-| Malicious IP address in the alerts             | ![[Pasted image 20260424160024.png]]<br><br>_221.181.185.159_ |
-| Who was the alert escalated to?                | ![[Pasted image 20260424160201.png]]<br><br>_Will Griffin_    |
-| Message after blocking the IP on the firewall? | ![[Pasted image 20260424160230.png]]<br><br>__                |
+| Question                                       | Answer                                                                 |
+| ---------------------------------------------- | ---------------------------------------------------------------------- |
+| Malicious IP address in the alerts             | ![[Pasted image 20260424160024.png]]<br><br>_221.181.185.159_          |
+| Who was the alert escalated to?                | ![[Pasted image 20260424160201.png]]<br><br>_Will Griffin_             |
+| Message after blocking the IP on the firewall? | ![[Pasted image 20260424160230.png]]<br><br>_THM{until-we-meet-again}_ |
 
 > **Note:** Complete the interactive lab by clicking **View Site** in Task 3 to get the answers above.
 
