@@ -50,7 +50,10 @@ What does the term SOC stand for?
 All three must coexist for a mature, effective SOC.
 
 The SOC team discovers an unauthorized user is trying to log in to an account. Which capability of SOC is this?
-- 
+- Detection
+
+What are the three pillars of a SOC?
+- People, Process, Technology
 
 ---
 
@@ -68,6 +71,12 @@ Human analysts are essential — security tools generate noise, and people are n
 |**Manager**|Oversees processes; reports to CISO on security posture|
 
 > **Note:** Team size and roles scale with the organization's size and risk profile.
+
+Alert triage and reporting is the responsibility of?
+- SOC Analyst (Level 1)
+
+Which role in the SOC team allows you to work dedicatedly on establishing rules for alerting security solutions?
+- Detection Engineer
 
 ---
 
@@ -94,6 +103,11 @@ Every alert is analyzed by answering:
 
 - Critical detections trigger a formal **Incident Response** process
 - Forensic analysis may follow to determine **root cause** from system/network artifacts
+
+At the end of the investigation, the SOC team found that John had attempted to steal the system's data. Which 'W' from the 5 Ws does this answer?
+- Who
+
+
 
 ---
 
