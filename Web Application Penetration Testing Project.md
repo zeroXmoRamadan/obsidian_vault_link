@@ -4,7 +4,7 @@
 
 This project focuses on conducting a comprehensive web application penetration testing assessment. The main goal is to identify, analyze, and demonstrate common web vulnerabilities using a controlled testing environment. The project simulates real-world attack scenarios and evaluates the security posture of target web applications.
 
-  ---
+---
   
 ## Project Plan
 
