@@ -131,7 +131,7 @@ Each vulnerability is documented with:
 
 * Testing in a controlled lab environment
 
-  ---
+---
   
 ## Expected Outcome
 
