@@ -110,7 +110,7 @@ Each vulnerability is documented with:
 
 * Recommended fix
 
-  ---
+---
   
 ## Risk Assessment & Mitigation Plan
 
