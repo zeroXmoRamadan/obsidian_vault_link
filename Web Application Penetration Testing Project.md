@@ -81,7 +81,7 @@ The system consists of the following components:
 
 * **Reliability:** Findings must be reproducible
 
-  ---
+---
   
 ## Testing & Quality Assurance
 
