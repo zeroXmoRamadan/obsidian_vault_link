@@ -40,7 +40,7 @@ The system consists of the following components:
 
 * **Target:** Various Web Applications
 
-  ---
+---
   
 ### Data Flow
 
