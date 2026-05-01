@@ -43,7 +43,7 @@ What is the False Positive Rate if only 10 out of 50 alerts appear to be real th
 
 Grouped into a **Service Level Agreement (SLA)** — a document between the SOC and company management (or MSSP and its customers) defining response time requirements.
 
-![](Pasted%20image%2020260502005911.png)
+![](Images/Pasted%20image%2020260502005911.png)
 
 | Metric | Common Target | Description |
 |---|---|---|
@@ -84,11 +84,11 @@ Should all SOC roles work together to keep metrics improving? (Yea/Nay)
 
 ## Task 5 — Metrics Lab
 #### 1- Unhappy Customer
-![](Pasted%20image%2020260502010224.png)
+![](Images/Pasted%20image%2020260502010224.png)
 #### 2- Delayed Alert
-![](Pasted%20image%2020260502010315.png)
+![](Images/Pasted%20image%2020260502010315.png)
 #### 3- Tired Analysts
-![](Pasted%20image%2020260502010416.png)
+![](Images/Pasted%20image%2020260502010416.png)
 
 | Challenge                         | Flag                                      |
 | --------------------------------- | ----------------------------------------- |
