@@ -92,7 +92,14 @@ Who is your current L2 in the SOC dashboard (opens in new tab) that you can assi
 
 What flag did you receive after correctly escalating the alert from the previous task to L2?  
 **Note:** If you correctly escalated the alert earlier, just edit the alert and click "Save" again.
+![](Pasted%20image%2020260501234915.png)
 - _THM{good_job_escalating_your_first_alert}_
+
+Now, investigate the second new alert in the queue and provide a detailed alert comment.  
+Then, decide if you need to escalate this alert and move on according to the process.  
+After you finish your triage, you should receive a flag, which is your answer!
+
+- _THM{looks_like_webshell_via_old_exchange}_
 
 ---
 
