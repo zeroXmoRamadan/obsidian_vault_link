@@ -125,11 +125,11 @@ Looking at the workbook example, what platform is used as an identity inventory 
 
 ### Lab — Workbook Builder
 
-| Challenge | Flag |
-|---|---|
-| First workbook | _THM{...}_ |
-| Second workbook | _THM{...}_ |
-| Third workbook | _THM{...}_ |
+| Challenge                             | Flag       |
+| ------------------------------------- | ---------- |
+| First workbook (Email Analysis)       | _THM{...}_ |
+| Second workbook (PowerShell Analysis) | _THM{...}_ |
+| Third workbook                        | _THM{...}_ |
 
 ---
 
