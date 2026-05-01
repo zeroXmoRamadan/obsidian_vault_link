@@ -88,7 +88,7 @@ Should all SOC roles work together to keep metrics improving? (Yea/Nay)
 #### 2- Delayed Alert
 ![](Pasted%20image%2020260502010315.png)
 #### 3- Tired Analysts
-
+![](Pasted%20image%2020260502010416.png)
 
 | Challenge                         | Flag                                      |
 | --------------------------------- | ----------------------------------------- |
