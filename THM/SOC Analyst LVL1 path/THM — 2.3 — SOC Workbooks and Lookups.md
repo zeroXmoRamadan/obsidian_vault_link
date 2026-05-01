@@ -33,6 +33,15 @@ A catalogue of corporate employees, service accounts, and their details — role
 | **HR Systems** | BambooHR, SAP, HiBob | Full employee data, limited to staff only |
 | **Custom Solution** | CSV / Excel Sheets | Maintained by IT or security teams |
 
+Looking at the identity inventory, what is the role of R.Lund at the company?
+- US Financial Adviser
+
+Checking the asset inventory, what data does the HQ-FINFS-02 server store?
+- Financial records
+
+Finally, does the file sharing from the scenario look legitimate and expected? (Yea/Nay)
+- 
+
 ---
 
 ### Asset Inventory
