@@ -124,12 +124,14 @@ Looking at the workbook example, what platform is used as an identity inventory 
 ## Task 5 — Building Workbooks
 
 ### Lab — Workbook Builder
+#### 1- Email Analysis
 
-| Challenge                             | Flag       |
-| ------------------------------------- | ---------- |
-| First workbook (Email Analysis)       | _THM{...}_ |
-| Second workbook (PowerShell Analysis) | _THM{...}_ |
-| Third workbook                        | _THM{...}_ |
+
+| Challenge                             | Flag                                |
+| ------------------------------------- | ----------------------------------- |
+| First workbook (Email Analysis)       | _THM{the_most_common_soc_workbook}_ |
+| Second workbook (PowerShell Analysis) | _THM{be_vigilant_with_powershell}_  |
+| Third workbook (Network Analysis)     | _THM{asset_inventory_is_essential}_ |
 
 ---
 
