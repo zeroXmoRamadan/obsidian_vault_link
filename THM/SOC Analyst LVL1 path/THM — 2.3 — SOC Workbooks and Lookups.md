@@ -33,15 +33,6 @@ A catalogue of corporate employees, service accounts, and their details — role
 | **HR Systems** | BambooHR, SAP, HiBob | Full employee data, limited to staff only |
 | **Custom Solution** | CSV / Excel Sheets | Maintained by IT or security teams |
 
-Looking at the identity inventory, what is the role of R.Lund at the company?
-- US Financial Adviser
-
-Checking the asset inventory, what data does the HQ-FINFS-02 server store?
-- Financial records
-
-Finally, does the file sharing from the scenario look legitimate and expected? (Yea/Nay)
-- 
-
 ---
 
 ### Asset Inventory
@@ -64,6 +55,15 @@ A list of all computing resources (servers, workstations) in the organisation's 
 | **MDM Solution** | MS Intune, Jamf | Dedicated solution to list and manage devices |
 | **Custom Solution** | CSV / Excel Sheets | Common in smaller teams |
 
+Looking at the identity inventory, what is the role of R.Lund at the company?
+- US Financial Adviser
+
+Checking the asset inventory, what data does the HQ-FINFS-02 server store?
+- Financial records
+
+Finally, does the file sharing from the scenario look legitimate and expected? (Yea/Nay)
+- Yea
+
 ---
 
 ## Task 3 — Network Diagrams
@@ -79,7 +79,17 @@ A **network diagram** is a visual schema of an organisation's locations, subnets
 | 08:25 | `10.10.0.53` scans the `172.16.15.0/24` subnet — no open ports found |
 | 08:32 | Same IP now scanning `172.16.23.0/24` — attack ongoing |
 
+![](Pasted%20image%2020260501235332.png)
+
 Using the network diagram, the attack path becomes clear: brute force on VPN → assigned internal IP → attempted lateral movement across subnets.
+
+According to the network diagram, which service is exposed on the TCP/10443 port?
+- VPN
+
+Now, which subnet would the server behind 172.16.15.99 IP belong to?
+- Database subnet
+
+
 
 ---
 
