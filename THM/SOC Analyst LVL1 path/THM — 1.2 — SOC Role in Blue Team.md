@@ -9,8 +9,6 @@
 
 Explores where the SOC sits within a company's broader security hierarchy, what other defensive teams exist, and how to navigate a career from L1 analyst onward.
 
-**Prerequisites:** [[Junior Security Analyst Intro]], [[SOC Fundamentals]]
-
 ---
 
 ## Task 2 — Security Hierarchy
