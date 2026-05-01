@@ -52,7 +52,7 @@ What is the process of formally describing alert details and findings?
 | **Why** | Your reasoning behind the final verdict — the most important W |
 
 According to the SOC dashboard (opens in new tab), which user email leaked the sensitive document?
-
+![](Pasted%20image%2020260501234425.png)
 - m.boslan@tryhackme.thm
 
 Looking at the new alerts, who is the "sender" of the suspicious, likely phishing email?
@@ -62,6 +62,7 @@ Looking at the new alerts, who is the "sender" of the suspicious, likely phishin
 Open the phishing alert, read its details, and try to understand the activity.  
 Using the Five Ws template, what flag did you receive after writing a good report?  
 **Note:** Do not change the status yet, fill in the Analyst Comment and click Save.
+![](Pasted%20image%2020260501234512.png)
 - _THM{nice_attempt_faking_microsoft_support}_
 
 ---
