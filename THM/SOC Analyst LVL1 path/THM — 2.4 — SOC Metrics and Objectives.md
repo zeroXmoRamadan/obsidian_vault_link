@@ -84,6 +84,8 @@ Should all SOC roles work together to keep metrics improving? (Yea/Nay)
 
 ## Task 5 — Metrics Lab
 #### 1- Unhappy Customer
+![](Pasted%20image%2020260502010224.png)
+#### 2- Delayed Alert
 
 
 | Challenge                         | Flag                                      |
