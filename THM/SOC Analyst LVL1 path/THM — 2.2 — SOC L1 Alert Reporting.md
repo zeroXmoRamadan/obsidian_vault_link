@@ -98,7 +98,7 @@ What flag did you receive after correctly escalating the alert from the previous
 Now, investigate the second new alert in the queue and provide a detailed alert comment.  
 Then, decide if you need to escalate this alert and move on according to the process.  
 After you finish your triage, you should receive a flag, which is your answer!
-
+![](Pasted%20image%2020260501235050.png)
 - _THM{looks_like_webshell_via_old_exchange}_
 
 ---
