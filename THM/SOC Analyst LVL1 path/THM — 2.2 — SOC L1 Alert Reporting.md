@@ -15,11 +15,19 @@ Covers what happens after alert triage — how L1 analysts document findings, es
 
 Most alerts are closed as False Positives or handled at L1 level. Complex or threatening ones move to L2. Three concepts enable that handoff:
 
+![](678ecc92c80aa206339f0f23-1743606.png)
+
 | Concept | Description |
 |---|---|
 | **Alert Reporting** | Document the investigation in detail before closing or escalating — especially critical for True Positives |
 | **Alert Escalation** | Pass True Positive alerts requiring deeper action to L2, using the report as initial context |
 | **Communication** | Contact other departments (IT, HR) during or after analysis for confirmation or additional info |
+
+What is the process of passing suspicious alerts to an L2 analyst for review?
+- Alert Escalation
+
+What is the process of formally describing alert details and findings?
+- Alert Reporting
 
 ---
 
