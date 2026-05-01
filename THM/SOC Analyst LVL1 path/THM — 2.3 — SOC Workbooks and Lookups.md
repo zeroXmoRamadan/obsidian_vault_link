@@ -128,7 +128,8 @@ Looking at the workbook example, what platform is used as an identity inventory 
 ![](Pasted%20image%2020260502000001.png)
 #### 2- PowerShell Analysis
 ![](Pasted%20image%2020260502000013.png)
-#### 3- 
+#### 3- Network Analysis
+![](Pasted%20image%2020260502000148.png)
 
 | Challenge                             | Flag                                |
 | ------------------------------------- | ----------------------------------- |
