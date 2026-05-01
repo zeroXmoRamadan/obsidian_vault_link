@@ -140,7 +140,7 @@ Some teams provide **Workbooks** (a.k.a. playbooks / runbooks) for specific aler
 | --------------------- | --------------------------------------- |
 | First-priority alert  | _THM{looks_like_lots_of_zoom_meetings}_ |
 | Second-priority alert | _THM{how_could_this_user_fall_for_it?}_ |
-| Third-priority alert  | _THM{how_could_this_user_fall_for_it?}_ |
+| Third-priority alert  | _THM{should_we_allow_github_for_devs?}_ |
 
 ---
 
