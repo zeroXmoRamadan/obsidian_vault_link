@@ -1,0 +1,76 @@
+> **Platform:** TryHackMe  
+> **Path:** SOC Level 1  
+> **Difficulty:** Easy  
+> **Tags:** #tryhackme #soc-metrics #kpi #sla #mttd #mtta #mttr #blue-team #l1-analyst
+
+---
+
+## Overview
+
+Covers how SOC team efficiency is measured using key metrics like False Positive Rate and MTTD/MTTA/MTTR, why they matter for L1 analysts, and how to improve them.
+
+---
+
+## Task 2 — Core SOC Metrics
+
+| Metric | Formula | Measures |
+|---|---|---|
+| **Alerts Count** | AC = Total Alerts Received | Overall load on SOC analysts |
+| **False Positive Rate** | FPR = False Positives / Total Alerts | Level of noise in alerts |
+| **Alert Escalation Rate** | AER = Escalated Alerts / Total Alerts | Experience and independence of L1 analysts |
+| **Threat Detection Rate** | TDR = Detected Threats / Total Threats | Reliability of the team |
+
+### Metric Benchmarks
+
+| Metric | Ideal | Problem Threshold |
+|---|---|---|
+| Alerts Count | 5–30 per analyst per day | Too low = visibility gaps; too high = analyst fatigue |
+| False Positive Rate | As low as possible | 80%+ is a serious problem |
+| Alert Escalation Rate | Below 20–50% | Too high = L1 lacks experience or confidence |
+| Threat Detection Rate | **100%** | Any missed threat can be devastating |
+
+> A high False Positive rate causes **alert fatigue** — analysts start treating every alert as noise and miss real threats. Fixed through **False Positive Remediation** — tuning tools and detection rules.
+
+---
+
+## Task 3 — SLA Metrics: MTTD, MTTA, MTTR
+
+Grouped into a **Service Level Agreement (SLA)** — a document between the SOC and company management (or MSSP and its customers) defining response time requirements.
+
+| Metric | Common Target | Description |
+|---|---|---|
+| **Team Availability** | 24/7 | Working schedule — 8/5 or 24/7 |
+| **Mean Time to Detect (MTTD)** | 5 minutes | Average time between the attack and detection by tools |
+| **Mean Time to Acknowledge (MTTA)** | 10 minutes | Average time for L1 to start triaging a new alert |
+| **Mean Time to Respond (MTTR)** | 60 minutes | Average time for the team to actually stop the breach |
+
+---
+
+## Task 4 — Improving the Metrics
+
+| Issue | Recommendations |
+|---|---|
+| **FPR over 80%** | Exclude trusted activities (e.g. system updates) from SIEM rules; automate triage for common alerts using SOAR or scripts |
+| **MTTD over 30 min** | Ask engineers to increase detection rule frequency; verify logs are collected in real-time without delay |
+| **MTTA over 30 min** | Ensure analysts get real-time alert notifications; distribute alerts evenly across analysts on shift |
+| **MTTR over 4 hours** | Escalate threats to L2 as quickly as possible; ensure the team has documented response procedures for different attack scenarios |
+
+---
+
+## Task 5 — Metrics Lab
+
+| Challenge | Flag |
+|---|---|
+| First scenario | _THM{...}_ |
+| Second scenario | _THM{...}_ |
+| Third scenario | _THM{...}_ |
+
+---
+
+## Key Takeaways
+
+- **Alerts Count** should be 5–30 per analyst per day — too few or too many both indicate problems
+- **False Positive Rate** above 80% causes alert fatigue and missed threats — tune detection rules
+- **Threat Detection Rate** must always be 100% — every missed threat risks ransomware or data exfiltration
+- **MTTD → MTTA → MTTR** is the timeline from attack to resolution — all three are tracked in the SLA
+- L1 analysts are the first to notice metric issues — communicate them and propose fixes proactively
