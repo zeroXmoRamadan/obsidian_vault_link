@@ -57,7 +57,10 @@ According to the SOC dashboard (opens in new tab), which user email leaked the s
 Looking at the new alerts, who is the "sender" of the suspicious, likely phishing email?
 - support@microsoft.com
 
-
+Open the phishing alert, read its details, and try to understand the activity.  
+Using the Five Ws template, what flag did you receive after writing a good report?  
+**Note:** Do not change the status yet, fill in the Analyst Comment and click Save.
+- _THM{nice_attempt_faking_microsoft_support}_
 
 ---
 
