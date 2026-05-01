@@ -78,6 +78,8 @@ Escalate the alert to L2 if any of the following apply:
 
 ### Escalation Steps
 
+
+
 1. Move alert to **In Progress** and complete your analysis
 2. Write the alert report and set your verdict
 3. **Reassign** the alert to the L2 analyst on shift
