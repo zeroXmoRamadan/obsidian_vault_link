@@ -89,7 +89,8 @@ According to the network diagram, which service is exposed on the TCP/10443 port
 Now, which subnet would the server behind 172.16.15.99 IP belong to?
 - Database subnet
 
-
+Finally, does the scenario look like a True Positive (TP) or False Positive (FP)?
+- TP
 
 ---
 
@@ -101,11 +102,22 @@ A **workbook** (also called playbook, runbook, or workflow) is a structured docu
 
 ### Workbook Structure — Unusual Login Location Example
 
+![](Pasted%20image%2020260501235419.png)
+
 | Phase | Steps |
 |---|---|
 | **1. Enrichment** | Use Threat Intelligence and identity inventory to gather context about the affected user |
 | **2. Investigation** | Using gathered data and logs, determine if the login was expected |
 | **3. Escalation** | Escalate to L2 or contact the user directly if the login appears suspicious |
+
+Which SOC role would use workbooks the most (e.g. SOC Manager)?
+- SOC L1 Analyst
+
+What is the process of gathering user, host, or IP context using TI and lookups?
+- Enrichment
+
+Looking at the workbook example, what platform is used as an identity inventory source?
+- BambooHR
 
 ---
 
