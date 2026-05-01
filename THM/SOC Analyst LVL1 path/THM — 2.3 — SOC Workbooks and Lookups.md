@@ -125,7 +125,10 @@ Looking at the workbook example, what platform is used as an identity inventory 
 
 ### Lab — Workbook Builder
 #### 1- Email Analysis
-
+![](Pasted%20image%2020260502000001.png)
+#### 2- PowerShell Analysis
+![](Pasted%20image%2020260502000013.png)
+#### 3- 
 
 | Challenge                             | Flag                                |
 | ------------------------------------- | ----------------------------------- |
