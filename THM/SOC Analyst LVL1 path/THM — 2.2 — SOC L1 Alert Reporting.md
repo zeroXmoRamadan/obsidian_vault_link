@@ -78,8 +78,6 @@ Escalate the alert to L2 if any of the following apply:
 
 ### Escalation Steps
 
-
-
 1. Move alert to **In Progress** and complete your analysis
 2. Write the alert report and set your verdict
 3. **Reassign** the alert to the L2 analyst on shift
@@ -87,6 +85,9 @@ Escalate the alert to L2 if any of the following apply:
 5. L2 reads your report, validates the finding, and takes further action
 
 > It's always better to escalate and discuss than to blindly close an alert you don't fully understand — especially in your first months.
+
+Who is your current L2 in the [SOC dashboard (opens in new tab)](https://static-labs.tryhackme.cloud/apps/socl1-alertreporting/) that you can assign (escalate) the alerts to?
+- 
 
 ---
 
