@@ -51,7 +51,7 @@ What is the process of formally describing alert details and findings?
 | **Where** | Which device, IP address, or website was involved |
 | **Why** | Your reasoning behind the final verdict — the most important W |
 
-According to the [SOC dashboard (opens in new tab)], which user email leaked the sensitive document?
+According to the SOC dashboard (opens in new tab), which user email leaked the sensitive document?
 
 ---
 
