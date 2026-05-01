@@ -86,13 +86,15 @@ Should all SOC roles work together to keep metrics improving? (Yea/Nay)
 #### 1- Unhappy Customer
 ![](Pasted%20image%2020260502010224.png)
 #### 2- Delayed Alert
+![](Pasted%20image%2020260502010315.png)
+#### 3- Tired Analysts
 
 
 | Challenge                         | Flag                                      |
 | --------------------------------- | ----------------------------------------- |
 | First scenario (Unhappy Customer) | _THM{mttr:quick_start_but_slow_response}_ |
 | Second scenario (Delayed Alert)   | _THM{mttd:time_between_attack_and_alert}_ |
-| Third scenario (Tired Analysis)   | _THM{fpr:the_main_cause_of_l1_burnout}_   |
+| Third scenario (Tired Analysts)   | _THM{fpr:the_main_cause_of_l1_burnout}_   |
 
 ---
 
