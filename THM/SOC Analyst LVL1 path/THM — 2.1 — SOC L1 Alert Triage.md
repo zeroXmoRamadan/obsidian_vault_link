@@ -98,6 +98,9 @@ The name of your selected alert will be the answer to the question.
 
 > Also called: alert handling, alert processing, alert investigation, or alert analysis.
 
+
+![](678ecc92c80aa206339f0f23-1773962.png)
+
 ### Initial Actions
 - Assign the alert to yourself
 - Move status to **In Progress**
