@@ -79,6 +79,8 @@ With many alerts in the queue, order matters. The standard approach:
 3. **Sort by Time** — Oldest first  
    *(An older breach means the attacker has had more time inside the network)*
 
+
+
 Should you first prioritise medium over low severity alerts? (Yea/Nay)
 - Yea
 
