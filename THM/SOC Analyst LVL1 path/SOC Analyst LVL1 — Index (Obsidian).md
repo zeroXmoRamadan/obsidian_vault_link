@@ -14,3 +14,4 @@
 ## Module 2 — Alert Handling
 - [[THM — 2.1 — SOC L1 Alert Triage]]
 - [[THM — 2.2 — SOC L1 Alert Reporting]]
+- [[THM — 2.3 — SOC Workbooks and Lookups]]
