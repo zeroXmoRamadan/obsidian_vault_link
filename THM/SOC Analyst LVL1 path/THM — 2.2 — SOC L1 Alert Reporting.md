@@ -86,8 +86,13 @@ Escalate the alert to L2 if any of the following apply:
 
 > It's always better to escalate and discuss than to blindly close an alert you don't fully understand — especially in your first months.
 
-Who is your current L2 in the [SOC dashboard (opens in new tab)](https://static-labs.tryhackme.cloud/apps/socl1-alertreporting/) that you can assign (escalate) the alerts to?
-- 
+Who is your current L2 in the SOC dashboard (opens in new tab) that you can assign (escalate) the alerts to?
+![](Pasted%20image%2020260501234810.png)
+- E.Fleming
+
+What flag did you receive after correctly escalating the alert from the previous task to L2?  
+**Note:** If you correctly escalated the alert earlier, just edit the alert and click "Save" again.
+- _THM{good_job_escalating_your_first_alert}_
 
 ---
 
