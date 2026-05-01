@@ -76,7 +76,7 @@ What is the name of the attack when malware comes from a trusted app or library?
 - From that point it's a race: attackers build exploits while defenders patch
 
 
-![](678ecc92c80aa206339f0f23-1752598.png)
+![](Images/678ecc92c80aa206339f0f23-1752598.png)
 
 ### Responding to Vulnerabilities
 
@@ -99,7 +99,7 @@ How would you respond to a detected vulnerability on your system?
 
 A misconfiguration is not a software bug — it's a human setup mistake, often made to simplify things.
 
-![](678ecc92c80aa206339f0f23-1754915.png)
+![](Images/678ecc92c80aa206339f0f23-1754915.png)
 
 ### Real-World Examples
 
@@ -129,7 +129,7 @@ Which activity involves an authorized cyber attack to detect the misconfiguratio
 
 Unlike humans, systems can't be _trained_ — but IT teams can be. Key mitigations:
 
-![](678ecc92c80aa206339f0f23-1752599.png)
+![](Images/678ecc92c80aa206339f0f23-1752599.png)
 
 |Measure|Description|
 |---|---|
@@ -141,15 +141,15 @@ Unlike humans, systems can't be _trained_ — but IT teams can be. Key mitigatio
 ### Lab — TryHackMe Security Dashboard
 
 #### 1. Systems at Risk
-1. ![](Pasted%20image%2020260425014240.png)
-2. ![](Pasted%20image%2020260425014246.png)
-3. ![](Pasted%20image%2020260425014250.png)
-4. ![](Pasted%20image%2020260425014254.png)
-![](Pasted%20image%2020260425014256.png)
+1. ![](Images/Pasted%20image%2020260425014240.png)
+2. ![](Images/Pasted%20image%2020260425014246.png)
+3. ![](Images/Pasted%20image%2020260425014250.png)
+4. ![](Images/Pasted%20image%2020260425014254.png)
+![](Images/Pasted%20image%2020260425014256.png)
 
 #### 2. Remediation Plan
-![](Pasted%20image%2020260425014417.png)
-![](Pasted%20image%2020260425014420.png)
+![](Images/Pasted%20image%2020260425014417.png)
+![](Images/Pasted%20image%2020260425014420.png)
 
 | Challenge        | Flag                          |
 | ---------------- | ----------------------------- |
@@ -177,3 +177,4 @@ Unlike humans, systems can't be _trained_ — but IT teams can be. Key mitigatio
 |CISA: Known Exploited Vulnerabilities Catalog|https://www.cisa.gov/known-exploited-vulnerabilities-catalog|
 |BleepingComputer: Supply Chain Attacks|https://www.bleepingcomputer.com|
 |CheckPoint: Live Cyber Threat Map|https://threatmap.checkpoint.com|
+

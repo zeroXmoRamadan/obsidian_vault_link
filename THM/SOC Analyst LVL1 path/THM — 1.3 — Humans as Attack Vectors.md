@@ -65,7 +65,7 @@ Which social engineering method is about pretending to be someone else?
 
 Defence requires both **Mitigation** (prevent/reduce attacks) and **Detection** (catch what slips through).
 
-![](678ecc92c80aa206339f0f23-1752782.png)
+![](Images/678ecc92c80aa206339f0f23-1752782.png)
 
 ### Key Mitigation Measures
 
@@ -98,15 +98,15 @@ SOC analysts don't just monitor alerts — they can be deeply embedded in the or
 ### Lab — TryHackMe Security Dashboard
 
 #### 1. Employees at Risk
-1. ![](Pasted%20image%2020260425005657.png)
-2. ![](Pasted%20image%2020260425005703.png)
-3. ![](Pasted%20image%2020260425005711.png)
-4. ![](Pasted%20image%2020260425005722.png)
-![](Pasted%20image%2020260425005728.png)
+1. ![](Images/Pasted%20image%2020260425005657.png)
+2. ![](Images/Pasted%20image%2020260425005703.png)
+3. ![](Images/Pasted%20image%2020260425005711.png)
+4. ![](Images/Pasted%20image%2020260425005722.png)
+![](Images/Pasted%20image%2020260425005728.png)
 
 #### 2. Security Policy
-1. ![](Pasted%20image%2020260425005912.png)
-![](Pasted%20image%2020260425005924.png)
+1. ![](Images/Pasted%20image%2020260425005912.png)
+![](Images/Pasted%20image%2020260425005924.png)
 
 | Challenge         | Flag                            |
 | ----------------- | ------------------------------- |
@@ -133,3 +133,4 @@ SOC analysts don't just monitor alerts — they can be deeply embedded in the or
 |Krebs on Security|https://krebsonsecurity.com|
 |The Hacker News|https://thehackernews.com|
 |BleepingComputer|https://www.bleepingcomputer.com|
+

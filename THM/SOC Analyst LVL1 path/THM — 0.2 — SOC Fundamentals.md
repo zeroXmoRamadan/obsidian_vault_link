@@ -26,7 +26,7 @@ What does the term SOC stand for?
 ## Task 2 — Detection & Response + The Three Pillars
 
 
-![](6645aa8c024f7893371eb7ac-1718872.png)
+![](Images/6645aa8c024f7893371eb7ac-1718872.png)
 
 ### Detection Capabilities
 
@@ -43,7 +43,7 @@ What does the term SOC stand for?
 
 ### The Three Pillars of a SOC
 
-![](6645aa8c024f7893371eb7ac-1718954.png)
+![](Images/6645aa8c024f7893371eb7ac-1718954.png)
 
 > **People → Process → Technology**
 
@@ -138,13 +138,13 @@ Do SIEM solutions primarily focus on detecting and alerting about security incid
 
 | 5W                                                        | Answer                                                                  |
 | --------------------------------------------------------- | ----------------------------------------------------------------------- |
-| **What** — Activity that triggered the alert?             | ![](Pasted%20image%2020260424171533.png)<br><br>_Port Scan_             |
-| **When** — Time of the activity?                          | ![](Pasted%20image%2020260424171550.png)<br><br>_June 12, 2024 17:24_   |
-| **Where** — Destination host IP?                          | ![](Pasted%20image%2020260424171610.png)<br><br>_10.0.0.3_              |
-| **Who** — Source host name?                               | ![](Pasted%20image%2020260424171622.png)<br><br>_NESSUS_                |
+| **What** — Activity that triggered the alert?             | ![](Images/Pasted%20image%2020260424171533.png)<br><br>_Port Scan_             |
+| **When** — Time of the activity?                          | ![](Images/Pasted%20image%2020260424171550.png)<br><br>_June 12, 2024 17:24_   |
+| **Where** — Destination host IP?                          | ![](Images/Pasted%20image%2020260424171610.png)<br><br>_10.0.0.3_              |
+| **Who** — Source host name?                               | ![](Images/Pasted%20image%2020260424171622.png)<br><br>_NESSUS_                |
 | **Why** — Intended or malicious?                          | _Intended_                                                              |
 | **Extra** — Was any response sent back to the scanner IP? | _yea_                                                                   |
-| **Flag** after closing the alert?                         | ![](Pasted%20image%2020260424171640.png)<br><br>_THM{000_INTRO_TO_SOC}_ |
+| **Flag** after closing the alert?                         | ![](Images/Pasted%20image%2020260424171640.png)<br><br>_THM{000_INTRO_TO_SOC}_ |
 
 ---
 

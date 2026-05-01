@@ -80,7 +80,7 @@ What type of incident aims to disrupt the availability of an application?
 |**R — Recovery**|Restore systems from backup or rebuild; test before returning to use|Reimage host, restore exfiltrated data from backup|
 |**L — Lessons Learned**|Document gaps; improve detection and response for future incidents|Post-incident review meeting, root cause analysis|
 
-![](6645aa8c024f7893371eb7ac-1718265.png)
+![](Images/6645aa8c024f7893371eb7ac-1718265.png)
 
 ### NIST Framework — 4 Phases
 
@@ -91,10 +91,10 @@ What type of incident aims to disrupt the availability of an application?
 |Containment, Eradication & Recovery|Containment + Eradication + Recovery|
 |Post-Incident Activity|Lessons Learned|
 
-![](6645aa8c024f7893371eb7ac-1718268.png)
+![](Images/6645aa8c024f7893371eb7ac-1718268.png)
 
 both:
-![](6645aa8c024f7893371eb7ac-1723217.png)
+![](Images/6645aa8c024f7893371eb7ac-1723217.png)
 
 ### Incident Response Plan
 
@@ -150,11 +150,11 @@ Step-by-step comprehensive guidelines for incident response are known as?
 
 | Question                                    | Answer                                                                            |
 | ------------------------------------------- | --------------------------------------------------------------------------------- |
-| Name of the malicious email sender?         | ![](Pasted%20image%2020260424174447.png)<br><br>_Jeff Johnson_                    |
+| Name of the malicious email sender?         | ![](Images/Pasted%20image%2020260424174447.png)<br><br>_Jeff Johnson_                    |
 | Threat vector?                              | _Email Attachment_                                                                |
-| How many devices downloaded the attachment? | ![](Pasted%20image%2020260424174540.png)<br><br>_3_                               |
-| How many devices executed the file?         | ![](Pasted%20image%2020260424174556.png)<br><br>_1_                               |
-| Flag at the end of the exercise?            | ![](Pasted%20image%2020260424174622.png)<br><br>_THM{My_First_Incident_Response}_ |
+| How many devices downloaded the attachment? | ![](Images/Pasted%20image%2020260424174540.png)<br><br>_3_                               |
+| How many devices executed the file?         | ![](Images/Pasted%20image%2020260424174556.png)<br><br>_1_                               |
+| Flag at the end of the exercise?            | ![](Images/Pasted%20image%2020260424174622.png)<br><br>_THM{My_First_Incident_Response}_ |
 
 ---
 

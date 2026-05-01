@@ -16,7 +16,7 @@ Explores where the SOC sits within a company's broader security hierarchy, what 
 ## Task 2 — Security Hierarchy
 
 
-![](678ecc92c80aa206339f0f23-1756329.png)
+![](Images/678ecc92c80aa206339f0f23-1756329.png)
 
 ### Chain of Command
 
@@ -45,7 +45,7 @@ Blue Team = **defensive security**. Continuously monitors for attacks and respon
 
 ### Security Operations Center (SOC)
 
-![](678ecc92c80aa206339f0f23-1756425.png)
+![](Images/678ecc92c80aa206339f0f23-1756425.png)
 
 The most common entry point into cyber security. First line of defense, handles most alerts and attacks.
 
@@ -108,7 +108,7 @@ Which department handles active or urgent cyber incidents?
 > **Recommendation:** Apply for any open L1 position first. Both paths have value; MSSP accelerates experience.
 
 
-![](678ecc92c80aa206339f0f23-1757446.png)
+![](Images/678ecc92c80aa206339f0f23-1757446.png)
 
 ### Possible Next Steps from L1
 
@@ -129,7 +129,7 @@ Which role naturally continues your SOC L1 analyst journey?
 
 **Scenario:** As CISO of _TrySecureMe_, assign the right security roles to 7 simultaneous incidents using drag-and-drop.
 
-![](Pasted%20image%2020260424172110.png)
+![](Images/Pasted%20image%2020260424172110.png)
 
 | Question                             | Answer                         |
 | ------------------------------------ | ------------------------------ |

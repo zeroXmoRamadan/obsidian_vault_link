@@ -34,7 +34,7 @@ A raw event (login, file download, process launch) gets logged by a system, ship
 | **SOC Manager** | Track triage speed and quality to prevent missed attacks |
 
 What is the number of alerts you see in the [SOC dashboard (opens in new tab)]?
-![](Pasted%20image%2020260501152844.png)
+![](Images/Pasted%20image%2020260501152844.png)
 - 5
 
 What is the name of the most recent alert you see?
@@ -46,7 +46,7 @@ What is the name of the most recent alert you see?
 
 Every alert, regardless of platform, shares a common set of fields.
 
-![](678ecc92c80aa206339f0f23-1743027.png)
+![](Images/678ecc92c80aa206339f0f23-1743027.png)
 
 | # | Property | Description | Examples |
 |---|---|---|---|
@@ -60,11 +60,11 @@ Every alert, regardless of platform, shares a common set of fields.
 | 8 | **Alert Fields** | Raw values that triggered the alert | Affected hostname, commandline entered, etc. |
 
 What was the verdict for the "Unusual VPN Login Location" alert?
-![](Pasted%20image%2020260501152934.png)
+![](Images/Pasted%20image%2020260501152934.png)
 - False Positive
 
 What user was mentioned in the "Unusual VPN Login Location" alert?
-![](Pasted%20image%2020260501153000.png)
+![](Images/Pasted%20image%2020260501153000.png)
 - M.Clark
 
 ---
@@ -79,7 +79,7 @@ With many alerts in the queue, order matters. The standard approach:
 3. **Sort by Time** — Oldest first  
    *(An older breach means the attacker has had more time inside the network)*
 
-![](678ecc92c80aa206339f0f23-1743433%201.png)
+![](Images/678ecc92c80aa206339f0f23-1743433%201.png)
 
 Should you first prioritise medium over low severity alerts? (Yea/Nay)
 - Yea
@@ -89,7 +89,7 @@ Should you first take the newest alerts and then the older ones? (Yea/Nay)
 
 Assign yourself to the first-priority alert and change its status to **In Progress**.  
 The name of your selected alert will be the answer to the question.
-![](Pasted%20image%2020260501153053.png)
+![](Images/Pasted%20image%2020260501153053.png)
 - Potential Data Exfiltration
 
 ---
@@ -99,7 +99,7 @@ The name of your selected alert will be the answer to the question.
 > Also called: alert handling, alert processing, alert investigation, or alert analysis.
 
 
-![](678ecc92c80aa206339f0f23-1773962.png)
+![](Images/678ecc92c80aa206339f0f23-1773962.png)
 
 ### Initial Actions
 - Assign the alert to yourself
@@ -124,17 +124,17 @@ Some teams provide **Workbooks** (a.k.a. playbooks / runbooks) for specific aler
 
 ### Lab — TryHackMe SOC Dashboard
 #### 1- Which flag did you receive after you correctly triaged the first-priority alert?
-1. ![](Pasted%20image%2020260501153549.png)
-2. ![](Pasted%20image%2020260501153615.png)
-3. ![](Pasted%20image%2020260501153628.png)
+1. ![](Images/Pasted%20image%2020260501153549.png)
+2. ![](Images/Pasted%20image%2020260501153615.png)
+3. ![](Images/Pasted%20image%2020260501153628.png)
 #### 2- Which flag did you receive after you correctly triaged the second-priority alert?
-1. ![](Pasted%20image%2020260501153720.png)
-2. ![](Pasted%20image%2020260501153750.png)
-3. ![](Pasted%20image%2020260501153753.png)
+1. ![](Images/Pasted%20image%2020260501153720.png)
+2. ![](Images/Pasted%20image%2020260501153750.png)
+3. ![](Images/Pasted%20image%2020260501153753.png)
 #### 3- Which flag did you receive after you correctly triaged the third-priority alert?
-1. ![](Pasted%20image%2020260501153847.png)
-2. ![](Pasted%20image%2020260501153912.png)
-3. ![](Pasted%20image%2020260501153916.png)
+1. ![](Images/Pasted%20image%2020260501153847.png)
+2. ![](Images/Pasted%20image%2020260501153912.png)
+3. ![](Images/Pasted%20image%2020260501153916.png)
 
 | Challenge             | Flag                                    |
 | --------------------- | --------------------------------------- |
