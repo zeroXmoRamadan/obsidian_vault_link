@@ -52,6 +52,12 @@ What is the process of formally describing alert details and findings?
 | **Why** | Your reasoning behind the final verdict — the most important W |
 
 According to the SOC dashboard (opens in new tab), which user email leaked the sensitive document?
+- m.boslan@tryhackme.thm
+
+Looking at the new alerts, who is the "sender" of the suspicious, likely phishing email?
+- support@microsoft.com
+
+
 
 ---
 
