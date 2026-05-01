@@ -1,0 +1,18 @@
+PowerShell:
+
+Get-ChildItem -Path "D:\obsidian_vault\obsidian_vault_link_repo" -Recurse -Filter "*.md" | ForEach-Object {
+    $content = Get-Content -LiteralPath $_.FullName -Raw
+    $updated = $content -replace '!\[(.*?)\]\((?!Images/)([^)]+\.(png|jpg|jpeg|gif|svg|webp))\)', '![$1](Images/$2)'
+    if ($content -ne $updated) {
+        Set-Content -LiteralPath $_.FullName $updated
+        Write-Host "Updated: $($_.FullName)"
+    }
+}
+
+
+
+
+
+CMD:
+
+git add . && git commit -m "fix: image paths" && git push
