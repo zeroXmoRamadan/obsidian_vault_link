@@ -74,15 +74,21 @@ Provide the MTTD, MTTA, and MTTR via comma as your answer (e.g. 10,20,30).
 | **MTTA over 30 min** | Ensure analysts get real-time alert notifications; distribute alerts evenly across analysts on shift |
 | **MTTR over 4 hours** | Escalate threats to L2 as quickly as possible; ensure the team has documented response procedures for different attack scenarios |
 
+What is the highest acceptable False Positive Rate for SOC teams?
+- 80%
+
+Should all SOC roles work together to keep metrics improving? (Yea/Nay)
+- Yea
+
 ---
 
 ## Task 5 — Metrics Lab
 
-| Challenge | Flag |
-|---|---|
-| First scenario | _THM{...}_ |
-| Second scenario | _THM{...}_ |
-| Third scenario | _THM{...}_ |
+| Challenge       | Flag                                      |
+| --------------- | ----------------------------------------- |
+| First scenario  | _THM{mttr:quick_start_but_slow_response}_ |
+| Second scenario | _THM{mttd:time_between_attack_and_alert}_ |
+| Third scenario  | _THM{fpr:the_main_cause_of_l1_burnout}_   |
 
 ---
 
