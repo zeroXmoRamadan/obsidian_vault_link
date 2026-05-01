@@ -39,6 +39,8 @@ What is the process of formally describing alert details and findings?
 | **Permanent record** | Raw logs last 3–12 months; alerts are kept indefinitely — keep all context inside |
 | **Skill development** | If you can't explain it simply, you don't understand it well enough |
 
+![](678ecc92c80aa206339f0f23-1743611.png)
+
 ### Report Format — The 5 Ws
 
 | W | What to Include |
@@ -48,6 +50,8 @@ What is the process of formally describing alert details and findings?
 | **When** | When the suspicious activity started and ended |
 | **Where** | Which device, IP address, or website was involved |
 | **Why** | Your reasoning behind the final verdict — the most important W |
+
+According to the [SOC dashboard (opens in new tab)], which user email leaked the sensitive document?
 
 ---
 
