@@ -15,3 +15,4 @@
 - [[THM — 2.1 — SOC L1 Alert Triage]]
 - [[THM — 2.2 — SOC L1 Alert Reporting]]
 - [[THM — 2.3 — SOC Workbooks and Lookups]]
+- [[THM — 2.4 — SOC Metrics and Objectives]]
