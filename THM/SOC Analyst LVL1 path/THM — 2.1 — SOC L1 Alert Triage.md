@@ -46,6 +46,8 @@ What is the name of the most recent alert you see?
 
 Every alert, regardless of platform, shares a common set of fields.
 
+![](678ecc92c80aa206339f0f23-1743027.png)
+
 | # | Property | Description | Examples |
 |---|---|---|---|
 | 1 | **Alert Time** | When the alert was created — usually a few minutes after the actual event | Alert: 15:35 / Event: 15:32 |
