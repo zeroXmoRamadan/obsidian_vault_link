@@ -83,12 +83,14 @@ Should all SOC roles work together to keep metrics improving? (Yea/Nay)
 ---
 
 ## Task 5 — Metrics Lab
+#### 1- Unhappy Customer
 
-| Challenge       | Flag                                      |
-| --------------- | ----------------------------------------- |
-| First scenario  | _THM{mttr:quick_start_but_slow_response}_ |
-| Second scenario | _THM{mttd:time_between_attack_and_alert}_ |
-| Third scenario  | _THM{fpr:the_main_cause_of_l1_burnout}_   |
+
+| Challenge                         | Flag                                      |
+| --------------------------------- | ----------------------------------------- |
+| First scenario (Unhappy Customer) | _THM{mttr:quick_start_but_slow_response}_ |
+| Second scenario (Delayed Alert)   | _THM{mttd:time_between_attack_and_alert}_ |
+| Third scenario (Tired Analysis)   | _THM{fpr:the_main_cause_of_l1_burnout}_   |
 
 ---
 
