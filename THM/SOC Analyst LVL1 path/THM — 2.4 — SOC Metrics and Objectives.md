@@ -31,6 +31,9 @@ Covers how SOC team efficiency is measured using key metrics like False Positive
 
 > A high False Positive rate causes **alert fatigue** — analysts start treating every alert as noise and miss real threats. Fixed through **False Positive Remediation** — tuning tools and detection rules.
 
+Is zero alerts for one month a good sign for your SOC team? (Yea/Nay)
+- 
+
 ---
 
 ## Task 3 — SLA Metrics: MTTD, MTTA, MTTR
