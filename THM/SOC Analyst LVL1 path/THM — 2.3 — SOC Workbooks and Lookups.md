@@ -79,7 +79,7 @@ A **network diagram** is a visual schema of an organisation's locations, subnets
 | 08:25 | `10.10.0.53` scans the `172.16.15.0/24` subnet — no open ports found |
 | 08:32 | Same IP now scanning `172.16.23.0/24` — attack ongoing |
 
-![](Pasted%20image%2020260501235332.png)
+![](Images/Pasted%20image%2020260501235332.png)
 
 Using the network diagram, the attack path becomes clear: brute force on VPN → assigned internal IP → attempted lateral movement across subnets.
 
@@ -102,7 +102,7 @@ A **workbook** (also called playbook, runbook, or workflow) is a structured docu
 
 ### Workbook Structure — Unusual Login Location Example
 
-![](Pasted%20image%2020260501235419.png)
+![](Images/Pasted%20image%2020260501235419.png)
 
 | Phase | Steps |
 |---|---|
@@ -125,11 +125,11 @@ Looking at the workbook example, what platform is used as an identity inventory 
 
 ### Lab — Workbook Builder
 #### 1- Email Analysis
-![](Pasted%20image%2020260502000001.png)
+![](Images/Pasted%20image%2020260502000001.png)
 #### 2- PowerShell Analysis
-![](Pasted%20image%2020260502000013.png)
+![](Images/Pasted%20image%2020260502000013.png)
 #### 3- Network Analysis
-![](Pasted%20image%2020260502000148.png)
+![](Images/Pasted%20image%2020260502000148.png)
 
 | Challenge                             | Flag                                |
 | ------------------------------------- | ----------------------------------- |

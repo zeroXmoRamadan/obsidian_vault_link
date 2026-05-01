@@ -15,7 +15,7 @@ Covers what happens after alert triage — how L1 analysts document findings, es
 
 Most alerts are closed as False Positives or handled at L1 level. Complex or threatening ones move to L2. Three concepts enable that handoff:
 
-![](678ecc92c80aa206339f0f23-1743606.png)
+![](Images/678ecc92c80aa206339f0f23-1743606.png)
 
 | Concept | Description |
 |---|---|
@@ -39,7 +39,7 @@ What is the process of formally describing alert details and findings?
 | **Permanent record** | Raw logs last 3–12 months; alerts are kept indefinitely — keep all context inside |
 | **Skill development** | If you can't explain it simply, you don't understand it well enough |
 
-![](678ecc92c80aa206339f0f23-1743611.png)
+![](Images/678ecc92c80aa206339f0f23-1743611.png)
 
 ### Report Format — The 5 Ws
 
@@ -52,17 +52,17 @@ What is the process of formally describing alert details and findings?
 | **Why** | Your reasoning behind the final verdict — the most important W |
 
 According to the SOC dashboard (opens in new tab), which user email leaked the sensitive document?
-![](Pasted%20image%2020260501234425.png)
+![](Images/Pasted%20image%2020260501234425.png)
 - m.boslan@tryhackme.thm
 
 Looking at the new alerts, who is the "sender" of the suspicious, likely phishing email?
-![](Pasted%20image%2020260501234351.png)
+![](Images/Pasted%20image%2020260501234351.png)
 - support@microsoft.com
 
 Open the phishing alert, read its details, and try to understand the activity.  
 Using the Five Ws template, what flag did you receive after writing a good report?  
 **Note:** Do not change the status yet, fill in the Analyst Comment and click Save.
-![](Pasted%20image%2020260501234512.png)
+![](Images/Pasted%20image%2020260501234512.png)
 - _THM{nice_attempt_faking_microsoft_support}_
 
 ---
@@ -87,18 +87,18 @@ Escalate the alert to L2 if any of the following apply:
 > It's always better to escalate and discuss than to blindly close an alert you don't fully understand — especially in your first months.
 
 Who is your current L2 in the SOC dashboard (opens in new tab) that you can assign (escalate) the alerts to?
-![](Pasted%20image%2020260501234810.png)
+![](Images/Pasted%20image%2020260501234810.png)
 - E.Fleming
 
 What flag did you receive after correctly escalating the alert from the previous task to L2?  
 **Note:** If you correctly escalated the alert earlier, just edit the alert and click "Save" again.
-![](Pasted%20image%2020260501234915.png)
+![](Images/Pasted%20image%2020260501234915.png)
 - _THM{good_job_escalating_your_first_alert}_
 
 Now, investigate the second new alert in the queue and provide a detailed alert comment.  
 Then, decide if you need to escalate this alert and move on according to the process.  
 After you finish your triage, you should receive a flag, which is your answer!
-![](Pasted%20image%2020260501235050.png)
+![](Images/Pasted%20image%2020260501235050.png)
 - _THM{looks_like_webshell_via_old_exchange}_
 
 ---
