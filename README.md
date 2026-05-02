@@ -1,0 +1,39 @@
+# Security Notes & Write-ups
+
+Personal documentation of my cybersecurity learning journey — summaries, notes, and challenge write-ups across three platforms.
+
+---
+
+## Platforms
+
+- **TryHackMe** — Blue team, SOC, fundamentals — tryhackme.com
+- **HackTheBox** — Penetration testing, red team — hackthebox.com
+- **CryptoHack** — Cryptography, CTF challenges — cryptohack.org
+
+---
+
+## Contents
+
+### TryHackMe
+
+Structured learning paths focused on defensive security and SOC operations.
+
+- **SOC Level 1** — Foundations, Blue Team Introduction, SOC Team Internals
+
+### HackTheBox
+
+Job role path focused on security monitoring, threat detection, and incident response.
+
+- **SOC Analyst** — SIEM, threat hunting, traffic analysis, malware analysis, DFIR, and incident reporting
+
+### CryptoHack
+
+Cryptography challenges with Python-based solutions.
+
+- **Introduction** — Encoding (ASCII, Hex, Base64), XOR attacks, big integers
+
+---
+
+## About
+
+These notes are written for my own learning and future reference. Write-ups include solution code, concept breakdowns, and key takeaways. Flag values are included since the goal is understanding, not just solving.
