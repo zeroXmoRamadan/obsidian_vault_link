@@ -23,6 +23,8 @@ print("".join(chr(n) for n in [99, 114, 121, 112, 116, 111, 123, 65, 83, 67, 73,
 
 ## Flag
 
+![](Pasted%20image%2020260502173316.png)
+
 ```
 crypto{ASCII_pr1nt4bl3}
 ```
