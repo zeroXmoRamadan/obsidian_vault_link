@@ -1,3 +1,6 @@
+<img width="2752" height="1536" alt="Ultra-wide_cybersecurity_banner,_dark_theme,_202605021937" src="https://github.com/user-attachments/assets/56a2ba35-2bce-45dc-abda-8b07a1ef84ee" />
+
+
 # Security Notes & Write-ups
 
 Personal documentation of my cybersecurity learning journey — summaries, notes, and challenge write-ups across three platforms.
