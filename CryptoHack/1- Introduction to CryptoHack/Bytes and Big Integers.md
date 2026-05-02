@@ -46,8 +46,10 @@ print(long_to_bytes(n).decode())
 
 ## Flag
 
+![](Pasted%20image%2020260502174333.png)
+
 ```
-crypto{3nc0d1ng_4ll_7h3_w4y_d0wn}
+crypto{3nc0d1n6_4ll_7h3_w4y_d0wn}
 ```
 
 ## How It Works
