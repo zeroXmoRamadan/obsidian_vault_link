@@ -1,5 +1,5 @@
 
-## Module 1 — ## Introduction to CryptoHack
+## Module 1 — Introduction to CryptoHack
 
 - [[Intro to CryptoHack — 1 — Finding Flags]]
 - [[Intro to CryptoHack — 2 — Great Snakes]]
