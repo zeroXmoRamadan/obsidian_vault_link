@@ -29,7 +29,7 @@ print(bytes.fromhex("63727970746f7b596f755f77696c6c5f62655f776f726b696e675f77697
 
 ## Flag
 
-![](Pasted%20image%2020260502173727.png)
+![](Images/Pasted%20image%2020260502173727.png)
 
 ```
 crypto{You_will_be_working_with_hex_strings_a_lot}

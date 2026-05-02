@@ -42,7 +42,7 @@ for key in range(256):
 ```
 ## Flag
 
-![](Pasted%20image%2020260502175700.png)
+![](Images/Pasted%20image%2020260502175700.png)
 
 ```
 crypto{0x10_15_my_f4v0ur173_by7e}

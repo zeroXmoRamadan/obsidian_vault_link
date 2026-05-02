@@ -29,8 +29,8 @@ print(flag.decode())
 ```
 
 ### Or using CyberChef
-1. ![](Pasted%20image%2020260502180409.png)
-2. ![](Pasted%20image%2020260502180438.png)
+1. ![](Images/Pasted%20image%2020260502180409.png)
+2. ![](Images/Pasted%20image%2020260502180438.png)
 ## Flag
 
 ```

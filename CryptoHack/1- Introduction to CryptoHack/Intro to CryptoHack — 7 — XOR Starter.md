@@ -42,7 +42,7 @@ print(f"crypto{{{result}}}")
 ```
 ## Flag
 
-![](Pasted%20image%2020260502174627.png)
+![](Images/Pasted%20image%2020260502174627.png)
 
 ```
 crypto{aloha}

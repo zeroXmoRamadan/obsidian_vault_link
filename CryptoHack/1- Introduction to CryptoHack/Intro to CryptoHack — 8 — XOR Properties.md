@@ -57,7 +57,7 @@ print(FLAG.decode())
 
 ## Flag
 
-![](Pasted%20image%2020260502175417.png)
+![](Images/Pasted%20image%2020260502175417.png)
 
 ```
 crypto{x0r_i5_ass0c1at1v3}

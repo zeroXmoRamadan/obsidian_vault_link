@@ -32,7 +32,7 @@ print(base64.b64encode(raw_bytes).decode())
 
 ## Flag
 
-![](Pasted%20image%2020260502174020.png)
+![](Images/Pasted%20image%2020260502174020.png)
 
 ```bash
 crypto/Base+64+Encoding+is+Web+Safe/

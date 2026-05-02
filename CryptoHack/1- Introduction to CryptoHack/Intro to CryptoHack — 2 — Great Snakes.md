@@ -37,7 +37,7 @@ print("".join(chr(o ^ 0x32) for o in ords))
 
 ## Flag
 
-![](Pasted%20image%2020260502165716.png)
+![](Images/Pasted%20image%2020260502165716.png)
 
 ```bash
 crypto{z3n_0f_pyth0n}
