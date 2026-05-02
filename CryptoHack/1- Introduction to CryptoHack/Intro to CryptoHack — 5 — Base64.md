@@ -1,4 +1,5 @@
-> **Source:** CryptoHack — Introductory Challenge **Tags:** `#ctf` `#cryptohack` `#cryptography` `#python` `#encoding` `#base64`
+> **Source:** CryptoHack — Introductory Challenge
+> **Tags:** `#ctf` `#cryptohack` `#cryptography` `#python` `#encoding` `#base64`
 
 ## What is This Challenge?
 
@@ -33,8 +34,8 @@ print(base64.b64encode(raw_bytes).decode())
 
 ![](Pasted%20image%2020260502174020.png)
 
-```
-crypto{3nc0d1ng_4ll_7h3_w4y_d0wn}
+```bash
+crypto/Base+64+Encoding+is+Web+Safe/
 ```
 
 ## How It Works
