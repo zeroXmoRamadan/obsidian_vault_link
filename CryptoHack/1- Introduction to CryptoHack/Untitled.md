@@ -1,4 +1,5 @@
-> **Source:** CryptoHack — Introductory Challenge **Tags:** `#ctf` `#cryptohack` `#cryptography` `#python` `#xor` `#bitwise`
+> **Source:** CryptoHack — Introductory Challenge
+> **Tags:** `#ctf` `#cryptohack` `#cryptography` `#python` `#xor` `#bitwise`
 
 ## What is This Challenge?
 
@@ -32,6 +33,8 @@ print(f"crypto{{{result}}}")
 ```
 
 ## Flag
+
+![](Pasted%20image%2020260502174627.png)
 
 ```
 crypto{aloha}
