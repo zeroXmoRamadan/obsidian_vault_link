@@ -7,5 +7,5 @@
 - [Intro to CryptoHack — 6 — Bytes and Big Integers](https://github.com/zeroXmoRamadan/obsidian_vault_link/blob/main/CryptoHack/1-%20Introduction%20to%20CryptoHack/Intro%20to%20CryptoHack%20%E2%80%94%206%20%E2%80%94%20Bytes%20and%20Big%20Integers.md)
 - [Intro to CryptoHack — 7 — XOR Starter](https://github.com/zeroXmoRamadan/obsidian_vault_link/blob/main/CryptoHack/1-%20Introduction%20to%20CryptoHack/Intro%20to%20CryptoHack%20%E2%80%94%207%20%E2%80%94%20XOR%20Starter.md)
 - [Intro to CryptoHack — 8 — XOR Properties](https://github.com/zeroXmoRamadan/obsidian_vault_link/blob/main/CryptoHack/1-%20Introduction%20to%20CryptoHack/Intro%20to%20CryptoHack%20%E2%80%94%208%20%E2%80%94%20XOR%20Properties.md)
-- [[Intro to CryptoHack — 9 — Favourite Byte]
-- [[Intro to CryptoHack — 10 — You either know, XOR you don't]]
+- [Intro to CryptoHack — 9 — Favourite Byte](https://github.com/zeroXmoRamadan/obsidian_vault_link/blob/main/CryptoHack/1-%20Introduction%20to%20CryptoHack/Intro%20to%20CryptoHack%20%E2%80%94%209%20%E2%80%94%20Favourite%20byte.md)
+- [Intro to CryptoHack — 10 — You either know, XOR you don't](https://github.com/zeroXmoRamadan/obsidian_vault_link/blob/main/CryptoHack/1-%20Introduction%20to%20CryptoHack/Intro%20to%20CryptoHack%20%E2%80%94%2010%20%E2%80%94%20You%20either%20know%2C%20XOR%20you%20don't.md)
