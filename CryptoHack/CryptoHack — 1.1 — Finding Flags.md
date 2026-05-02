@@ -1,5 +1,4 @@
 > **Source:** CryptoHack — Introductory Challenge
-> **Source:** CryptoHack — Introductory Challenge
 > **Tags:** #ctf #cryptohack #cryptography #intro
 
 ## What is a Flag?
