@@ -30,7 +30,7 @@ Job role path focused on security monitoring, threat detection, and incident res
 
 Cryptography challenges with Python-based solutions.
 
-- **Introduction** — Encoding (ASCII, Hex, Base64), XOR attacks, big integers
+- **Introduction, Modular Arithmetic, Symmetric Cryptography, Public Key Cryptography, Elliptic Cryptography**
 
 ---
 
