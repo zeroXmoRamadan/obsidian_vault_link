@@ -21,5 +21,3 @@ crypto{y0ur_f1rst_fl4g}
 - The first challenge flag is given directly: `crypto{y0ur_f1rst_fl4g}`
 - Subsequent flags must be **derived** by solving each crypto challenge
 
-## Tags
-
