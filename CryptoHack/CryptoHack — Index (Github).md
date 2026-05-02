@@ -4,8 +4,8 @@
 - [Intro to CryptoHack — 3 — ASCII](https://github.com/zeroXmoRamadan/obsidian_vault_link/blob/main/CryptoHack/1-%20Introduction%20to%20CryptoHack/Intro%20to%20CryptoHack%20%E2%80%94%203%20%E2%80%94%20ASCII.md)
 - [Intro to CryptoHack — 4 — HEX](https://github.com/zeroXmoRamadan/obsidian_vault_link/blob/main/CryptoHack/1-%20Introduction%20to%20CryptoHack/Intro%20to%20CryptoHack%20%E2%80%94%204%20%E2%80%94%20HEX.md)
 - [Intro to CryptoHack — 5 — Base64](https://github.com/zeroXmoRamadan/obsidian_vault_link/blob/main/CryptoHack/1-%20Introduction%20to%20CryptoHack/Intro%20to%20CryptoHack%20%E2%80%94%205%20%E2%80%94%20Base64.md)
-- [[Intro to CryptoHack — 6 — Bytes and Big Integers]
-- [[Intro to CryptoHack — 7 — XOR Starter]]
-- [[Intro to CryptoHack — 8 — XOR Properties]]
-- [[Intro to CryptoHack — 9 — Favourite Byte]]
+- [Intro to CryptoHack — 6 — Bytes and Big Integers](https://github.com/zeroXmoRamadan/obsidian_vault_link/blob/main/CryptoHack/1-%20Introduction%20to%20CryptoHack/Intro%20to%20CryptoHack%20%E2%80%94%206%20%E2%80%94%20Bytes%20and%20Big%20Integers.md)
+- [Intro to CryptoHack — 7 — XOR Starter](https://github.com/zeroXmoRamadan/obsidian_vault_link/blob/main/CryptoHack/1-%20Introduction%20to%20CryptoHack/Intro%20to%20CryptoHack%20%E2%80%94%207%20%E2%80%94%20XOR%20Starter.md)
+- [Intro to CryptoHack — 8 — XOR Properties](https://github.com/zeroXmoRamadan/obsidian_vault_link/blob/main/CryptoHack/1-%20Introduction%20to%20CryptoHack/Intro%20to%20CryptoHack%20%E2%80%94%208%20%E2%80%94%20XOR%20Properties.md)
+- [[Intro to CryptoHack — 9 — Favourite Byte]
 - [[Intro to CryptoHack — 10 — You either know, XOR you don't]]
