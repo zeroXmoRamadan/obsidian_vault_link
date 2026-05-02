@@ -1,7 +1,7 @@
 # SOC Analyst LVL1 — Path Index
 
 ## Module 0 — Foundations
-- [THM — 0.1 — Defensive Security Intro](https://github.com/zeroXmoRamadan/obsidian_vault_link/blob/main/THM/SOC%20Analyst%20LVL1%20path/THM%20%E2%80%94%200.1%20%E2%80%94%20Defensive%20Security%20Intro.md)
+- [THM — 0.1 — Defensive Security Intro]([https://github.com/zeroXmoRamadan/obsidian_vault_link/blob/main/THM/SOC%20Analyst%20LVL1%20path/THM%20%E2%80%94%200.1%20%E2%80%94%20Defensive%20Security%20Intro.md](https://github.com/zeroXmoRamadan/obsidian_vault_link/blob/main/THM/SOC%20Analyst%20LVL1%20path/0-%20Foundations/THM%20%E2%80%94%200.1%20%E2%80%94%20Defensive%20Security%20Intro.md))
 - [THM — 0.2 — SOC Fundamentals](https://github.com/zeroXmoRamadan/obsidian_vault_link/blob/main/THM/SOC%20Analyst%20LVL1%20path/THM%20%E2%80%94%200.2%20%E2%80%94%20SOC%20Fundamentals.md)
 - [THM — 0.3 — Incident Response Fundamentals](https://github.com/zeroXmoRamadan/obsidian_vault_link/blob/main/THM/SOC%20Analyst%20LVL1%20path/THM%20%E2%80%94%200.3%20%E2%80%94%20Incident%20Response%20Fundamentals.md)
 
