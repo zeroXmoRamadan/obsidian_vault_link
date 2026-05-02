@@ -32,6 +32,7 @@ result = "".join(chr(ord(c) ^ key) for c in plaintext)
 print(f"crypto{{{result}}}")
 ```
 
+### Using pwntools xor()
 ## Flag
 
 ![](Pasted%20image%2020260502174627.png)
