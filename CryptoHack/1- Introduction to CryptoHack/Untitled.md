@@ -33,6 +33,13 @@ print(f"crypto{{{result}}}")
 ```
 
 ### Using pwntools xor()
+
+```Python
+from pwn import xor
+
+result = xor(b"label", 13).decode()
+print(f"crypto{{{result}}}")
+```
 ## Flag
 
 ![](Pasted%20image%2020260502174627.png)
