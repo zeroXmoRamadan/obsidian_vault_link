@@ -35,6 +35,11 @@ print("Here is your flag:")
 print("".join(chr(o ^ 0x32) for o in ords))
 ```
 
+## Flag
+```bash
+
+```
+
 ## How It Works
 
 - `ords` is a list of integers
