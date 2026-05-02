@@ -15,4 +15,4 @@
 - [THM — 2.1 — SOC L1 Alert Triage](https://github.com/zeroXmoRamadan/obsidian_vault_link/blob/main/THM/SOC%20Analyst%20LVL1%20path/2-%20SOC%20Team%20Internals/THM%20%E2%80%94%202.1%20%E2%80%94%20SOC%20L1%20Alert%20Triage.md)
 - [THM — 2.2 — SOC L1 Alert Reporting](https://github.com/zeroXmoRamadan/obsidian_vault_link/blob/main/THM/SOC%20Analyst%20LVL1%20path/2-%20SOC%20Team%20Internals/THM%20%E2%80%94%202.2%20%E2%80%94%20SOC%20L1%20Alert%20Reporting.md)
 - [THM — 2.3 — SOC Workbooks and Lookups](https://github.com/zeroXmoRamadan/obsidian_vault_link/blob/main/THM/SOC%20Analyst%20LVL1%20path/2-%20SOC%20Team%20Internals/THM%20%E2%80%94%202.3%20%E2%80%94%20SOC%20Workbooks%20and%20Lookups.md)
-- [THM — 2.4 — SOC Metrics and Objectives]()
+- [THM — 2.4 — SOC Metrics and Objectives](https://github.com/zeroXmoRamadan/obsidian_vault_link/blob/main/THM/SOC%20Analyst%20LVL1%20path/2-%20SOC%20Team%20Internals/THM%20%E2%80%94%202.4%20%E2%80%94%20SOC%20Metrics%20and%20Objectives.md)
