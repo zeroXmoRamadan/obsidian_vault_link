@@ -1,4 +1,3 @@
-
 ## Module 1 — Introduction to CryptoHack
 
 - [[Intro to CryptoHack — 1 — Finding Flags]]
