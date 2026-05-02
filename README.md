@@ -6,9 +6,9 @@ Personal documentation of my cybersecurity learning journey — summaries, notes
 
 ## Platforms
 
-- **TryHackMe** — Blue team, SOC, fundamentals — tryhackme.com
-- **HackTheBox** — Penetration testing, red team — hackthebox.com
-- **CryptoHack** — Cryptography, CTF challenges — cryptohack.org
+- [**TryHackMe**](tryhackme.com) — Blue team, SOC, fundamentals
+- [**HackTheBox**](hackthebox.com) — Penetration testing, red team
+- [**CryptoHack**](cryptohack.org) — Cryptography, CTF challenges
 
 ---
 
