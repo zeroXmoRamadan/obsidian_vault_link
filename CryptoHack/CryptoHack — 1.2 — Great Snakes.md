@@ -36,8 +36,11 @@ print("".join(chr(o ^ 0x32) for o in ords))
 ```
 
 ## Flag
-```bash
 
+![](Pasted%20image%2020260502165716.png)
+
+```bash
+crypto{z3n_0f_pyth0n}
 ```
 
 ## How It Works
@@ -55,8 +58,3 @@ This is a basic **XOR cipher** — one of the most fundamental operations in cry
 - Running a `.py` script is as simple as `python3 filename.py`
 - **XOR** (`^`) is a core crypto primitive: `value ^ key = ciphertext`, and `ciphertext ^ key = value`
 - Some flags aren't hidden — they're revealed by simply running the right script
-
-## Resources
-
-- [Downloading Python](https://wiki.python.org/moin/BeginnersGuide/Download)
-- [great_snakes.py](https://cryptohack.org/static/challenges/great_snakes_35381fca29d68d8f3f25c9fa0a9026fb.py)
