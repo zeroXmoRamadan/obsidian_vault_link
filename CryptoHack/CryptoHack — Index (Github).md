@@ -1,10 +1,10 @@
 # Module 1 — Introduction to CryptoHack
-- [Intro to CryptoHack — 1 — Finding Flags]()
-- [[Intro to CryptoHack — 2 — Great Snakes]]
-- [[Intro to CryptoHack — 3 — ASCII]]
-- [[Intro to CryptoHack — 4 — HEX]]
-- [[Intro to CryptoHack — 5 — Base64]]
-- [[Intro to CryptoHack — 6 — Bytes and Big Integers]]
+- [Intro to CryptoHack — 1 — Finding Flags](https://github.com/zeroXmoRamadan/obsidian_vault_link/blob/main/CryptoHack/1-%20Introduction%20to%20CryptoHack/Intro%20to%20CryptoHack%20%E2%80%94%201%20%E2%80%94%20Finding%20Flags.md)
+- [Intro to CryptoHack — 2 — Great Snakes](https://github.com/zeroXmoRamadan/obsidian_vault_link/blob/main/CryptoHack/1-%20Introduction%20to%20CryptoHack/Intro%20to%20CryptoHack%20%E2%80%94%202%20%E2%80%94%20Great%20Snakes.md)
+- [Intro to CryptoHack — 3 — ASCII](https://github.com/zeroXmoRamadan/obsidian_vault_link/blob/main/CryptoHack/1-%20Introduction%20to%20CryptoHack/Intro%20to%20CryptoHack%20%E2%80%94%203%20%E2%80%94%20ASCII.md)
+- [Intro to CryptoHack — 4 — HEX](https://github.com/zeroXmoRamadan/obsidian_vault_link/blob/main/CryptoHack/1-%20Introduction%20to%20CryptoHack/Intro%20to%20CryptoHack%20%E2%80%94%204%20%E2%80%94%20HEX.md)
+- [Intro to CryptoHack — 5 — Base64](https://github.com/zeroXmoRamadan/obsidian_vault_link/blob/main/CryptoHack/1-%20Introduction%20to%20CryptoHack/Intro%20to%20CryptoHack%20%E2%80%94%205%20%E2%80%94%20Base64.md)
+- [[Intro to CryptoHack — 6 — Bytes and Big Integers]
 - [[Intro to CryptoHack — 7 — XOR Starter]]
 - [[Intro to CryptoHack — 8 — XOR Properties]]
 - [[Intro to CryptoHack — 9 — Favourite Byte]]
