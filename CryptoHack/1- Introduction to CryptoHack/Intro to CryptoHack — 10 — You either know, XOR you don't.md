@@ -12,23 +12,6 @@ A flag has been encrypted with a **repeating-key XOR** cipher. The key length is
 
 ## Solution
 
-```python
-from pwn import xor
-
-ciphertext = bytes.fromhex("0e0b213f26041e480b26217f27342e175d0e070a3c5b103e2526217f27342e175d0e077e263451150104")
-
-# XOR known plaintext prefix against ciphertext to extract the key
-known = b"crypto{"
-key = xor(ciphertext[:len(known)], known)
-print(f"Partial key: {key}")  # reveals the key pattern
-
-# The key repeats — extend it to decrypt the full ciphertext
-full_key = (key * (len(ciphertext) // len(key) + 1))[:len(ciphertext)]
-flag = xor(ciphertext, full_key)
-print(flag.decode())
-```
-
-### Or using CyberChef
 1. ![](Images/Pasted%20image%2020260502180409.png)
 2. ![](Images/Pasted%20image%2020260502180438.png)
 ## Flag
