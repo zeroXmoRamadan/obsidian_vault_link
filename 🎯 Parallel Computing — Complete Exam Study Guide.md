@@ -334,25 +334,25 @@ int main(int argc, char* argv[]) {
 
 ### Key MPI Functions
 
-| Function | Purpose |
-|----------|---------|
-| `MPI_Init(&argc, &argv)` | Initialize MPI |
-| `MPI_Finalize()` | Clean up MPI |
-| `MPI_Comm_rank(comm, &rank)` | Get process rank |
-| `MPI_Comm_size(comm, &size)` | Get number of processes |
-| `MPI_Send(buf, count, type, dest, tag, comm)` | Send a message |
-| `MPI_Recv(buf, count, type, src, tag, comm, &status)` | Receive a message |
-| `MPI_Reduce(sendbuf, recvbuf, count, type, op, dest, comm)` | Reduce to one process |
-| `MPI_Allreduce(sendbuf, recvbuf, count, type, op, comm)` | Reduce to ALL processes |
-| `MPI_Bcast(buf, count, type, root, comm)` | Broadcast from one to all |
-| `MPI_Scatter(sendbuf, sendcount, sendtype, recvbuf, recvcount, recvtype, root, comm)` | Distribute data from one to all |
-| `MPI_Gather(sendbuf, sendcount, sendtype, recvbuf, recvcount, recvtype, root, comm)` | Collect data from all to one |
-| `MPI_Allgather(sendbuf, sendcount, sendtype, recvbuf, recvcount, recvtype, comm)` | Gather data to ALL processes |
-| `MPI_Barrier(comm)` | Synchronize all processes |
-| `MPI_Wtime()` | Get wall clock time |
-| `MPI_Ssend(...)` | Synchronous send (guaranteed to block until matching recv starts) |
-| `MPI_Sendrecv(...)` | Combined send and receive (prevents deadlock) |
-| `MPI_Get_count(&status, type, &count)` | Get count of received data |
+| Function                                                                              | Purpose                                                           |
+| ------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| `MPI_Init(&argc, &argv)`                                                              | Initialize MPI                                                    |
+| `MPI_Finalize()`                                                                      | Clean up MPI                                                      |
+| `MPI_Comm_rank(comm, &rank)`                                                          | Get process rank                                                  |
+| `MPI_Comm_size(comm, &size)`                                                          | Get number of processes                                           |
+| `MPI_Send(buf, count, type, dest, tag, comm)`                                         | Send a message                                                    |
+| `MPI_Recv(buf, count, type, src, tag, comm, &status)`                                 | Receive a message                                                 |
+| `MPI_Reduce(sendbuf, recvbuf, count, type, op, dest, comm)`                           | Reduce to one process                                             |
+| `MPI_Allreduce(sendbuf, recvbuf, count, type, op, comm)`                              | Reduce to ALL processes                                           |
+| `MPI_Bcast(buf, count, type, root, comm)`                                             | Broadcast from one to all                                         |
+| `MPI_Scatter(sendbuf, sendcount, sendtype, recvbuf, recvcount, recvtype, root, comm)` | Distribute data from one to all                                   |
+| `MPI_Gather(sendbuf, sendcount, sendtype, recvbuf, recvcount, recvtype, root, comm)`  | Collect data from all to one                                      |
+| `MPI_Allgather(sendbuf, sendcount, sendtype, recvbuf, recvcount, recvtype, comm)`     | Gather data to ALL processes                                      |
+| `MPI_Barrier(comm)`                                                                   | Synchronize all processes                                         |
+| `MPI_Wtime()`                                                                         | Get wall clock time                                               |
+| `MPI_Ssend(...)`                                                                      | Synchronous send (guaranteed to block until matching recv starts) |
+| `MPI_Sendrecv(...)`                                                                   | Combined send and receive (prevents deadlock)                     |
+| `MPI_Get_count(&status, type, &count)`                                                | Get count of received data                                        |
 
 ### MPI_Send / MPI_Recv Details ⚡ LIKELY EXAM TOPIC
 
