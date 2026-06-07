@@ -23,17 +23,17 @@ This chapter motivates the need for parallel computing. Due to physical limits (
 
 ## 🔑 Key Definitions
 
-| Term | Definition |
-|------|-----------|
-| **Concurrent computing** | A program in which multiple tasks can be **in progress** at any instant |
-| **Parallel computing** | A program in which multiple tasks **cooperate closely** to solve a problem |
-| **Distributed computing** | A program that may need to **cooperate with other programs** to solve a problem |
-| **Core** | A central processing unit (CPU) on a chip |
-| **Data parallelism** | Partitioning the **data** among cores; each core performs similar operations on its part |
-| **Task parallelism** | Partitioning the **tasks** (different operations) among cores |
-| **Communication** | Cores send/receive partial results to/from other cores |
-| **Load balancing** | Distributing work evenly so no single core is overloaded |
-| **Synchronization** | Ensuring cores don't get too far ahead of others |
+| Term                      | Definition                                                                               |
+| ------------------------- | ---------------------------------------------------------------------------------------- |
+| **Concurrent computing**  | A program in which multiple tasks can be **in progress** at any instant                  |
+| **Parallel computing**    | A program in which multiple tasks **cooperate closely** to solve a problem               |
+| **Distributed computing** | A program that may need to **cooperate with other programs** to solve a problem          |
+| **Core**                  | A central processing unit (CPU) on a chip                                                |
+| **Data parallelism**      | Partitioning the **data** among cores; each core performs similar operations on its part |
+| **Task parallelism**      | Partitioning the **tasks** (different operations) among cores                            |
+| **Communication**         | Cores send/receive partial results to/from other cores                                   |
+| **Load balancing**        | Distributing work evenly so no single core is overloaded                                 |
+| **Synchronization**       | Ensuring cores don't get too far ahead of others                                         |
 
 ## 💡 Important Concepts
 
